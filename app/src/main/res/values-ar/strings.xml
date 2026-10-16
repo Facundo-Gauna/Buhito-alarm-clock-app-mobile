@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">المنبّه التالي بعد %1$s</string>
+    <string name="no_upcoming">لا توجد منبّهات قادمة</string>
+    <string name="new_alarm">منبّه جديد</string>
+    <string name="empty_title">كل شيء هادئ الآن</string>
+    <string name="empty_body">اضغط على الزر لإنشاء أول منبّه بصوتك الخاص.</string>
+    <string name="today">اليوم</string>
+    <string name="tomorrow">غدًا</string>
+    <string name="delete_title">حذف المنبّه؟</string>
+    <string name="delete_body">لا يمكن التراجع عن هذا.</string>
+    <string name="perm_fix">إعداد</string>
+    <string name="perm_exact_title">السماح بالمنبّهات والتذكيرات</string>
+    <string name="perm_exact_body">مطلوب ليرنّ المنبّه في الوقت المحدد بدقة.</string>
+    <string name="perm_notif_title">السماح بالإشعارات</string>
+    <string name="perm_notif_body">بدونها لا يستطيع المنبّه الظهور على شاشة القفل.</string>
+    <string name="perm_fsi_title">السماح بالتنبيهات بملء الشاشة</string>
+    <string name="perm_fsi_body">مطلوب ليُفتح المنبّه فوق شاشة القفل.</string>
+    <string name="perm_batt_title">بطارية بلا قيود</string>
+    <string name="perm_batt_body">يُنصح به حتى لا يضع النظام التطبيق في وضع السكون.</string>
+    <string name="edit_alarm">تعديل المنبّه</string>
+    <string name="back">رجوع</string>
+    <string name="pick_date">اختر التاريخ</string>
+    <string name="rings_summary">%1$s · بعد %2$s</string>
+    <string name="label_field">الاسم</string>
+    <string name="label_hint">مثال: وقت الدراسة</string>
+    <string name="sound_title">الصوت</string>
+    <string name="sound_system">نغمة النظام</string>
+    <string name="sound_file">صوتك الخاص</string>
+    <string name="choose_tone">نغمات النظام</string>
+    <string name="choose_file">صوت من الهاتف</string>
+    <string name="default_alarm_tone">المنبّه الافتراضي</string>
+    <string name="tones_title">نغمات النظام</string>
+    <string name="done">تم</string>
+    <string name="preview">استماع</string>
+    <string name="duration_title">مدة المنبّه</string>
+    <string name="duration_hint">يستمر الصوت (إن كان يتكرر) وشاشة المنبّه طوال هذه المدة</string>
+    <string name="vibration">الاهتزاز</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">موافق</string>
+    <string name="audio_import_failed">تعذّر تحميل هذا الصوت</string>
+    <string name="alarm_default_title">منبّه</string>
+    <string name="stop">إيقاف</string>
+    <string name="snooze">غفوة</string>
+    <string name="snooze_n">غفوة %1$d دقيقة</string>
+    <string name="minutes_short">%1$d د</string>
+    <string name="snoozed_toast">غفوة %1$d دقيقة</string>
+    <string name="channel_alarm">المنبّهات</string>
+    <string name="channel_alarm_desc">المنبّهات التي ترنّ الآن</string>
+    <string name="channel_missed">منبّهات لم يُرد عليها</string>
+    <string name="missed_text">انتظرتك عند %1$s لكنني غفوت 💤</string>
+    <string name="dur_days_hours">%1$d ي %2$d س</string>
+    <string name="dur_hours_minutes">%1$d س %2$d د</string>
+    <string name="dur_minutes">%1$d د</string>
+    <string name="dur_seconds">%1$d ث</string>
+    <string name="dur_min_sec">%1$d د %2$d ث</string>
+    <string name="category_title">الفئة</string>
+    <string name="cat_general">عام</string>
+    <string name="cat_study">دراسة</string>
+    <string name="cat_gym">رياضة</string>
+    <string name="cat_work">عمل</string>
+    <string name="cat_health">صحة</string>
+    <string name="cat_personal">شخصي</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_active">النشطة</string>
+    <string name="filter_paused">المتوقفة</string>
+    <string name="no_matches">لا شيء هنا</string>
+    <string name="repeat_title">التكرار</string>
+    <string name="repeat_once">مرة واحدة</string>
+    <string name="every_day">كل يوم</string>
+    <string name="weekdays">أيام الأسبوع</string>
+    <string name="weekends">عطلة نهاية الأسبوع</string>
+    <string name="volume_title">مستوى الصوت</string>
+    <string name="loop_title">تكرار الصوت</string>
+    <string name="loop_hint">إيقاف: يُشغَّل الصوت مرة واحدة، لكن شاشة المنبّه تبقى طوال المدة</string>
+    <string name="record_voice">تسجيل الصوت</string>
+    <string name="recorder_title">رسالة صوتية</string>
+    <string name="record_tap">اضغط للتسجيل</string>
+    <string name="recording">جارٍ التسجيل…</string>
+    <string name="record_again">إعادة التسجيل</string>
+    <string name="use_recording">استخدام هذا</string>
+    <string name="mic_denied">يلزم إذن الميكروفون للتسجيل</string>
+    <string name="record_failed">تعذّر التسجيل. حاول مرة أخرى.</string>
+    <string name="voice_note_name">ملاحظة صوتية %1$s</string>
+    <string name="templates_title">القوالب</string>
+    <string name="template_hint">اضغط للاستخدام · اضغط مطولًا للحذف</string>
+    <string name="save_template">حفظ كقالب</string>
+    <string name="template_name">اسم القالب</string>
+    <string name="template_saved">تم حفظ القالب</string>
+    <string name="delete_template_title">حذف القالب؟</string>
+    <string name="saved_title">المنبّه جاهز!</string>
+    <string name="saved_body">يرنّ بعد %1$s</string>
+    <string name="greet_morning">صباح الخير! ☀️</string>
+    <string name="greet_afternoon">مساء الخير!</string>
+    <string name="greet_evening">مساء الخير!</string>
+    <string name="greet_night">ما زلت مستيقظًا؟ أنا أحرس 🌙</string>
+    <string-array name="owl_lines">
+        <item>هووو! أنا أحرس الليل.</item>
+        <item>لا أفوّت أي منبّه أبدًا.</item>
+        <item>نصيحة: سجّل صوتك أنت. تجاهله أصعب بكثير.</item>
+        <item>هو هو… هل قال أحدهم غفوة؟</item>
+        <item>داعب القطة. بلطف. إنها نائمة.</item>
+        <item>بومة الصباح أو بومة الليل… كل البوم لطيف.</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>مياو.</item>
+        <item>خمس دقائق أخرى…</item>
+        <item>خرخرة</item>
+        <item>Zzz… أوه. أهلًا.</item>
+        <item>أطعمني. أو لا. Zzz.</item>
+    </string-array>
+    <string name="notif_wake_up">هو هو! حان وقت الاستيقاظ 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>هو هو! حان وقت الاستيقاظ 🦉</item>
+        <item>سهرت الليل كله من أجل هذه اللحظة.</item>
+        <item>ششش… منبّهك يناديك.</item>
+        <item>أرفرف بجناحيّ من أجلك!</item>
+        <item>انهض انهض! اليوم ينتظرك.</item>
+    </string-array>
+    <string name="tab_alarms">المنبّهات</string>
+    <string name="tab_stopwatch">ساعة إيقاف</string>
+    <string name="sw_title">ساعات الإيقاف</string>
+    <string name="sw_running_n">%1$d قيد التشغيل</string>
+    <string name="sw_all_paused">الكل متوقف مؤقتًا</string>
+    <string name="sw_new">ساعة إيقاف جديدة</string>
+    <string name="sw_name_hint">الاسم</string>
+    <string name="sw_default_name">ساعة إيقاف %1$d</string>
+    <string name="sw_start">ابدأ</string>
+    <string name="sw_pause">إيقاف مؤقت</string>
+    <string name="sw_resume">متابعة</string>
+    <string name="sw_lap">لفّة</string>
+    <string name="sw_reset">إعادة ضبط</string>
+    <string name="sw_running">قيد التشغيل</string>
+    <string name="sw_paused">متوقفة مؤقتًا</string>
+    <string name="sw_lap_n">اللفّة %1$d</string>
+    <string name="sw_more_laps">+%1$d لفّات سابقة</string>
+    <string name="sw_empty_title">لا توجد ساعات إيقاف بعد</string>
+    <string name="sw_empty_body">أنشئ واحدة لقياس التمارين أو الدراسة أو أي شيء آخر. تواصل العدّ حتى لو أغلقت التطبيق.</string>
+    <string name="sw_delete_title">حذف ساعة الإيقاف؟</string>
+    <string-array name="sw_cat_lines">
+        <item>أراقب الساعة من أجلك!</item>
+        <item>تك تك، تك تك…</item>
+        <item>هيا هيا! 🐾</item>
+        <item>يمكنني مطاردة تلك العقرب طوال اليوم.</item>
+        <item>توقيت رائع!</item>
+    </string-array>
+    <string name="open_alarm">فتح</string>
+    <string name="hold_to_stop">اضغط مطولًا للإيقاف</string>
+    <string name="stop_all_chain">إيقاف التسلسل كاملًا</string>
+    <plurals name="chain_remaining">
+        <item quantity="zero">لا رنّات متبقية</item>
+        <item quantity="one">بقيت رنّة واحدة</item>
+        <item quantity="two">بقيت رنّتان</item>
+        <item quantity="few">بقيت %1$d رنّات</item>
+        <item quantity="many">بقيت %1$d رنّة</item>
+        <item quantity="other">بقيت %1$d رنّة</item>
+    </plurals>
+    <string name="new_category">فئة جديدة</string>
+    <string name="category_name">اسم الفئة</string>
+    <string name="more_options">خيارات إضافية</string>
+    <string name="confirm_stop_title">الضغط مطولًا للإيقاف</string>
+    <string name="confirm_stop_hint">عليك الضغط على الزر لمدة ثانيتين، حتى لا تُطفئه وأنت نصف نائم</string>
+    <string name="speak_label_title">قراءة الاسم بصوت عالٍ</string>
+    <string name="speak_label_hint">ينطق الهاتف الاسم أثناء الرنين</string>
+    <string name="chain_title">التسلسل</string>
+    <string name="chain_hint">رنّات إضافية بعد الأولى</string>
+    <string name="chain_off">متوقف</string>
+    <string name="chain_every">كل</string>
+    <string name="tab_history">السجل</string>
+    <string name="tab_settings">الإعدادات</string>
+    <string name="history_title">السجل</string>
+    <string name="history_week">هذا الأسبوع: %1$d أُوقف · %2$d فائت</string>
+    <string name="history_empty">لا شيء هنا بعد. عندما يرنّ منبّه سيظهر هنا.</string>
+    <string name="result_stopped">أُوقف</string>
+    <string name="result_snoozed">غفوة</string>
+    <string name="result_missed">فائت</string>
+    <string name="result_ringing">يرنّ</string>
+    <string name="history_clear">مسح السجل</string>
+    <string name="history_clear_body">ستُحذف كل السجلات. منبّهاتك لن تتأثر.</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="my_categories">فئاتي</string>
+    <string name="my_categories_empty">لم تنشئ أي فئة بعد. أنشئ واحدة لما تريد: حيوانات أليفة، أدوية، محاضرة…</string>
+    <string name="delete_category_title">حذف الفئة؟</string>
+    <string name="delete_category_body">المنبّهات التي تستخدم %1$s ستعود إلى عام.</string>
+    <string name="backup_title">نسخة احتياطية</string>
+    <string name="backup_body">احفظ منبّهاتك وقوالبك وفئاتك وساعات الإيقاف وملفاتك الصوتية في ملف واحد، أو استعدها منه.</string>
+    <string name="backup_export">تصدير</string>
+    <string name="backup_import">استعادة</string>
+    <string name="backup_done">تم حفظ النسخة الاحتياطية (%1$d منبّه)</string>
+    <string name="backup_failed">تعذّر حفظ النسخة الاحتياطية</string>
+    <string name="restore_title">استعادة النسخة الاحتياطية؟</string>
+    <string name="restore_body">سيؤدي هذا إلى استبدال كل ما في التطبيق حاليًا (المنبّهات والقوالب والفئات وساعات الإيقاف).</string>
+    <string name="restore_done">تمت استعادة %1$d منبّه</string>
+    <string name="restore_failed">تعذّرت استعادة هذا الملف</string>
+    <string name="tab_sleep">النوم</string>
+    <string name="sleep_title">النوم</string>
+    <string name="sleep_awake">نومك، مسجَّل من أجلك</string>
+    <string name="sleep_add_manual">إضافة ليلة يدويًا</string>
+    <string name="sleep_month">الشهر</string>
+    <string name="sleep_year">السنة</string>
+    <string name="sleep_total">الإجمالي</string>
+    <string name="sleep_hours_per_night">الساعات لكل ليلة</string>
+    <string name="sleep_goal_hint">الخط المتقطع = هدف %1$d س</string>
+    <string name="sleep_nights">الليالي</string>
+    <string name="sleep_avg_per_month">المتوسط الشهري</string>
+    <string name="sleep_nights_n">%1$d ليلة</string>
+    <string name="sleep_all_time">كل الأوقات</string>
+    <string name="sleep_total_hours">إجمالي النوم</string>
+    <string name="sleep_longest">أطول ليلة</string>
+    <string name="sleep_shortest">أقصر ليلة</string>
+    <string name="sleep_per_year">المتوسط السنوي</string>
+    <string name="sleep_empty">لا توجد ليالٍ مسجَّلة في هذه الفترة بعد.</string>
+    <string name="sleep_avg">المتوسط</string>
+    <string name="sleep_avg_bed">متوسط وقت النوم</string>
+    <string name="sleep_avg_wake">متوسط وقت الاستيقاظ</string>
+    <string name="sleep_avg_quality">متوسط التقييم</string>
+    <string name="sleep_wake_day">يوم الاستيقاظ</string>
+    <string name="sleep_fell_asleep">نمتَ في</string>
+    <string name="sleep_woke_up">استيقظتَ في</string>
+    <string name="cal_title">الاستيراد من التقويم</string>
+    <string name="cal_body">حوّل الأحداث القادمة في تقويم هاتفك إلى منبّهات. يقرأ فقط؛ لا شيء يغادر هاتفك.</string>
+    <string name="cal_button">اختيار الأحداث</string>
+    <string name="cal_denied">يلزم إذن التقويم لقراءة أحداثك. يمكنك السماح به من إعدادات الهاتف.</string>
+    <string name="cal_loading">جارٍ تحميل الأحداث…</string>
+    <string name="cal_empty">لا توجد أحداث في هذه الفترة.</string>
+    <string name="cal_remind">نبّهني</string>
+    <string name="cal_on_time">عند البدء</string>
+    <string name="cal_before">قبل %1$d دقيقة</string>
+    <string name="cal_create">إنشاء %1$d</string>
+    <string name="cal_created">تم إنشاء %1$d منبّه</string>
+    <string name="cal_range">النظر إلى الأمام</string>
+    <string name="cal_days">%1$d يومًا</string>
+    <string name="cal_one_year">سنة واحدة</string>
+    <string name="channel_sleep">تم اكتشاف النوم</string>
+    <string name="sleep_notif_title">سجّلتُ نومك 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">اكتشفت %1$d ليالٍ جديدة</string>
+    <string name="sleep_notif_hint">اضغط للمراجعة وتصحيح الأوقات إن كانت خاطئة.</string>
+    <string name="sleep_auto_title">الاكتشاف التلقائي</string>
+    <string name="sleep_auto_body">يعرف متى نمتَ من خلال المدة التي بقيت فيها شاشة هاتفك مطفأة لساعات في الليل. لا شيء يغادر هاتفك.</string>
+    <string name="sleep_auto_unsupported">يتطلب الاكتشاف التلقائي Android 9 أو أحدث. ما زال بإمكانك إضافة الليالي يدويًا.</string>
+    <string name="sleep_auto_need_access">اسمح لـ Buhito بـ«الوصول إلى بيانات الاستخدام» من إعدادات Android ليرى متى كانت الشاشة مطفأة.</string>
+    <string name="sleep_auto_grant">فتح الإعدادات</string>
+    <string name="sleep_detect_now">اكتشف الآن</string>
+    <string name="sleep_adjust">ضبط</string>
+    <string name="sleep_hide_adjust">إخفاء</string>
+    <string name="sleep_adj_min">أقل مدة نوم تُحتسب</string>
+    <string name="sleep_adj_delay">أحتاج هذه المدة لأنام بعد انطفاء الشاشة</string>
+    <string name="sleep_adj_from">يمكن أن يبدأ النوم من</string>
+    <string name="sleep_adj_check">افحص وأبلغني كل صباح عند</string>
+    <string name="sleep_detected_n">تم اكتشاف %1$d ليالٍ جديدة</string>
+    <string name="sleep_detected_none">لا جديد لتسجيله</string>
+    <string name="sleep_auto_hint">🤖 = اكتُشفت تلقائيًا. اضغط على ليلة لتصحيح الأوقات أو تقييمها.</string>
+    <string name="qr_stop_title">امسح رمز QR للإيقاف</string>
+    <string name="qr_stop_hint">لإطفائه عليك مسح رمز QR الخاص بـ Buhito. احتفظ به بعيدًا عن سريرك.</string>
+    <string name="qr_scan_button">امسح رمز QR للإيقاف</string>
+    <string name="qr_scan_prompt">وجّه الكاميرا نحو رمز QR الخاص بـ Buhito</string>
+    <string name="qr_wrong">هذا ليس رمز Buhito الخاص بك. حاول مرة أخرى.</string>
+    <string name="qr_camera_needed">يلزم إذن الكاميرا لإيقاف المنبّهات برمز QR</string>
+    <string name="qr_settings_title">رمز QR</string>
+    <string name="qr_settings_body">رمزك الشخصي لإطفاء المنبّهات. احفظ الصورة واطبعها، أو اعرضها على شاشة أخرى. إذا لم تكن الكاميرا متاحة، يعود المنبّه إلى الضغط مطولًا للإيقاف.</string>
+    <string name="qr_save">حفظ الصورة</string>
+    <string name="qr_saved">تم حفظ صورة QR</string>
+    <string name="qr_new">رمز جديد</string>
+    <string name="qr_new_title">إنشاء رمز جديد؟</string>
+    <string name="qr_new_body">سيتوقف الرمز القديم عن العمل. احفظ الجديد واطبعه.</string>
+    <string name="lang_title">اللغة</string>
+    <string name="lang_body">اختر لغة التطبيق.</string>
+    <string name="ob_replay">مشاهدة الجولة مرة أخرى</string>
+    <string name="ob_skip">تخطي</string>
+    <string name="ob_next">التالي</string>
+    <string name="ob_start">هيا بنا!</string>
+    <string name="ob_1">هووو! أهلًا بك! أنا Buhito، بومتك حارسة الليل 🦉 سأعرّفك على التطبيق. أولًا، اختر لغتك.</string>
+    <string name="ob_2">هذا تطبيق منبّهات. اضغط على ＋ لإنشاء منبّه: اختر الوقت والأيام والاسم.</string>
+    <string name="ob_3">اجعله لك: استخدم نغمة النظام أو صوتك الخاص أو حتى تسجيلًا بصوتك. أضف فئة أو تسلسل رنّات أو دع الهاتف يقرأ الاسم بصوت عالٍ.</string>
+    <string name="ob_4">لإيقاف المنبّه اضغط على الزر مطولًا لمدة ثانيتين، أو امسح رمز QR الخاص بـ Buhito. احفظه واطبعه من الإعدادات.</string>
+    <string name="ob_5">لكي ترنّ المنبّهات على شاشة القفل، اسمح بالإشعارات والمنبّهات والتنبيهات بملء الشاشة. سأذكّرك إن كان شيء ناقصًا.</string>
+    <string name="ob_6">إلى جانب المنبّهات، أسجّل نومك تلقائيًا 🌙 وصديقي القط يحسب وقت ساعات الإيقاف لديك 🐱</string>
+    <string name="ob_7">هذا كل شيء! هل أنت مستعد لإنشاء أول منبّه؟</string>
+    <string name="qr_strict_title">الوضع الصارم</string>
+    <string name="qr_strict_hint">المنبّهات المرتبطة برمز QR لا تُطفأ إلا بمسحه: لا غفوة ولا أي زر آخر. احتفظ برمز QR مطبوعًا أو في متناول يدك.</string>
+</resources>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">Prossima sveglia tra %1$s</string>
+    <string name="no_upcoming">Nessuna sveglia in arrivo</string>
+    <string name="new_alarm">Nuova sveglia</string>
+    <string name="empty_title">Tutto tranquillo per ora</string>
+    <string name="empty_body">Tocca il pulsante per creare la tua prima sveglia con il tuo suono.</string>
+    <string name="today">Oggi</string>
+    <string name="tomorrow">Domani</string>
+    <string name="delete_title">Eliminare la sveglia?</string>
+    <string name="delete_body">Non si può annullare.</string>
+    <string name="perm_fix">Configura</string>
+    <string name="perm_exact_title">Consenti sveglie e promemoria</string>
+    <string name="perm_exact_body">Necessario perché le sveglie suonino all\'ora esatta.</string>
+    <string name="perm_notif_title">Consenti le notifiche</string>
+    <string name="perm_notif_body">Senza di esse la sveglia non può comparire nella schermata di blocco.</string>
+    <string name="perm_fsi_title">Consenti avvisi a schermo intero</string>
+    <string name="perm_fsi_body">Necessario perché la sveglia si apra sopra la schermata di blocco.</string>
+    <string name="perm_batt_title">Batteria senza restrizioni</string>
+    <string name="perm_batt_body">Consigliato perché il sistema non metta in pausa l\'app.</string>
+    <string name="edit_alarm">Modifica sveglia</string>
+    <string name="back">Indietro</string>
+    <string name="pick_date">Scegli la data</string>
+    <string name="rings_summary">%1$s · tra %2$s</string>
+    <string name="label_field">Nome</string>
+    <string name="label_hint">es. Sessione di studio</string>
+    <string name="sound_title">Suono</string>
+    <string name="sound_system">Suoneria di sistema</string>
+    <string name="sound_file">Il tuo audio</string>
+    <string name="choose_tone">Suonerie di sistema</string>
+    <string name="choose_file">Audio del telefono</string>
+    <string name="default_alarm_tone">Sveglia predefinita</string>
+    <string name="tones_title">Suonerie di sistema</string>
+    <string name="done">Fatto</string>
+    <string name="preview">Ascolta</string>
+    <string name="duration_title">Durata della sveglia</string>
+    <string name="duration_hint">Il suono (se si ripete) e la schermata della sveglia durano così a lungo</string>
+    <string name="vibration">Vibrazione</string>
+    <string name="save">Salva</string>
+    <string name="delete">Elimina</string>
+    <string name="cancel">Annulla</string>
+    <string name="ok">OK</string>
+    <string name="audio_import_failed">Impossibile caricare questo audio</string>
+    <string name="alarm_default_title">Sveglia</string>
+    <string name="stop">Stop</string>
+    <string name="snooze">Posticipa</string>
+    <string name="snooze_n">Posticipa di %1$d min</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="snoozed_toast">Posticipata di %1$d min</string>
+    <string name="channel_alarm">Sveglie</string>
+    <string name="channel_alarm_desc">Sveglie che stanno suonando in questo momento</string>
+    <string name="channel_missed">Sveglie senza risposta</string>
+    <string name="missed_text">Ti ho aspettato alle %1$s, ma mi sono addormentato 💤</string>
+    <string name="dur_days_hours">%1$dg %2$dh</string>
+    <string name="dur_hours_minutes">%1$dh %2$dmin</string>
+    <string name="dur_minutes">%1$d min</string>
+    <string name="dur_seconds">%1$d s</string>
+    <string name="dur_min_sec">%1$d min %2$d s</string>
+    <string name="category_title">Categoria</string>
+    <string name="cat_general">Generale</string>
+    <string name="cat_study">Studio</string>
+    <string name="cat_gym">Palestra</string>
+    <string name="cat_work">Lavoro</string>
+    <string name="cat_health">Salute</string>
+    <string name="cat_personal">Personale</string>
+    <string name="filter_all">Tutte</string>
+    <string name="filter_active">Attive</string>
+    <string name="filter_paused">In pausa</string>
+    <string name="no_matches">Niente qui</string>
+    <string name="repeat_title">Ripeti</string>
+    <string name="repeat_once">Una volta</string>
+    <string name="every_day">Ogni giorno</string>
+    <string name="weekdays">Giorni feriali</string>
+    <string name="weekends">Fine settimana</string>
+    <string name="volume_title">Volume</string>
+    <string name="loop_title">Ripeti il suono</string>
+    <string name="loop_hint">Disattivato: il suono si sente una volta, ma la schermata della sveglia resta per tutta la durata</string>
+    <string name="record_voice">Registra la voce</string>
+    <string name="recorder_title">Messaggio vocale</string>
+    <string name="record_tap">Tocca per registrare</string>
+    <string name="recording">Registrazione…</string>
+    <string name="record_again">Registra di nuovo</string>
+    <string name="use_recording">Usa questo</string>
+    <string name="mic_denied">Serve il permesso del microfono per registrare</string>
+    <string name="record_failed">Impossibile registrare. Riprova.</string>
+    <string name="voice_note_name">Nota vocale %1$s</string>
+    <string name="templates_title">Modelli</string>
+    <string name="template_hint">Tocca per usare · tieni premuto per eliminare</string>
+    <string name="save_template">Salva come modello</string>
+    <string name="template_name">Nome del modello</string>
+    <string name="template_saved">Modello salvato</string>
+    <string name="delete_template_title">Eliminare il modello?</string>
+    <string name="saved_title">Sveglia pronta!</string>
+    <string name="saved_body">Suona tra %1$s</string>
+    <string name="greet_morning">Buongiorno! ☀️</string>
+    <string name="greet_afternoon">Buon pomeriggio!</string>
+    <string name="greet_evening">Buonasera!</string>
+    <string name="greet_night">Ancora sveglio? Faccio la guardia 🌙</string>
+    <string-array name="owl_lines">
+        <item>Uhu! Sono di guardia stanotte.</item>
+        <item>Non perdo mai una sveglia. Mai.</item>
+        <item>Consiglio: registra la tua voce. È molto più difficile da ignorare.</item>
+        <item>Uhu uhu… qualcuno ha detto posticipa?</item>
+        <item>Accarezza il gatto. Piano. Sta dormendo.</item>
+        <item>Gufo mattiniero o notturno… tutti i gufi sono bravi gufi.</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>Miao.</item>
+        <item>Altri cinque minuti…</item>
+        <item>Fusa</item>
+        <item>Zzz… oh. Ciao.</item>
+        <item>Dammi da mangiare. O no. Zzz.</item>
+    </string-array>
+    <string name="notif_wake_up">Uhu uhu! È ora di svegliarsi 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>Uhu uhu! È ora di svegliarsi 🦉</item>
+        <item>Sono rimasto sveglio tutta la notte solo per questo.</item>
+        <item>Psst… la tua sveglia ti chiama.</item>
+        <item>Sbatto le ali per te!</item>
+        <item>In piedi! La giornata ti aspetta.</item>
+    </string-array>
+    <string name="tab_alarms">Sveglie</string>
+    <string name="tab_stopwatch">Cronometro</string>
+    <string name="sw_title">Cronometri</string>
+    <string name="sw_running_n">%1$d in corso</string>
+    <string name="sw_all_paused">Tutti in pausa</string>
+    <string name="sw_new">Nuovo cronometro</string>
+    <string name="sw_name_hint">Nome</string>
+    <string name="sw_default_name">Cronometro %1$d</string>
+    <string name="sw_start">Avvia</string>
+    <string name="sw_pause">Pausa</string>
+    <string name="sw_resume">Riprendi</string>
+    <string name="sw_lap">Giro</string>
+    <string name="sw_reset">Azzera</string>
+    <string name="sw_running">In corso</string>
+    <string name="sw_paused">In pausa</string>
+    <string name="sw_lap_n">Giro %1$d</string>
+    <string name="sw_more_laps">+%1$d giri precedenti</string>
+    <string name="sw_empty_title">Ancora nessun cronometro</string>
+    <string name="sw_empty_body">Creane uno per cronometrare allenamenti, studio o qualsiasi cosa. Continuano a contare anche se chiudi l\'app.</string>
+    <string name="sw_delete_title">Eliminare il cronometro?</string>
+    <string-array name="sw_cat_lines">
+        <item>Tengo d\'occhio l\'orologio per te!</item>
+        <item>Tic tac, tic tac…</item>
+        <item>Dai, dai, dai! 🐾</item>
+        <item>Inseguirei quella lancetta tutto il giorno.</item>
+        <item>Tempismo perfetto!</item>
+    </string-array>
+    <string name="open_alarm">Apri</string>
+    <string name="hold_to_stop">Tieni premuto per fermare</string>
+    <string name="stop_all_chain">Ferma tutta la sequenza</string>
+    <plurals name="chain_remaining">
+        <item quantity="one">Manca %1$d squillo</item>
+        <item quantity="other">Mancano %1$d squilli</item>
+    </plurals>
+    <string name="new_category">Nuova categoria</string>
+    <string name="category_name">Nome della categoria</string>
+    <string name="more_options">Altre opzioni</string>
+    <string name="confirm_stop_title">Tieni premuto per fermare</string>
+    <string name="confirm_stop_hint">Devi tenere premuto il pulsante per 2 secondi, così non la spegni nel dormiveglia</string>
+    <string name="speak_label_title">Leggi il nome ad alta voce</string>
+    <string name="speak_label_hint">Il telefono pronuncia il nome mentre suona</string>
+    <string name="chain_title">Sequenza</string>
+    <string name="chain_hint">Squilli extra dopo il primo</string>
+    <string name="chain_off">Disattivata</string>
+    <string name="chain_every">Ogni</string>
+    <string name="tab_history">Cronologia</string>
+    <string name="tab_settings">Impostazioni</string>
+    <string name="history_title">Cronologia</string>
+    <string name="history_week">Questa settimana: %1$d fermate · %2$d perse</string>
+    <string name="history_empty">Ancora niente qui. Quando una sveglia suonerà, comparirà qui.</string>
+    <string name="result_stopped">Fermata</string>
+    <string name="result_snoozed">Posticipata</string>
+    <string name="result_missed">Persa</string>
+    <string name="result_ringing">Sta suonando</string>
+    <string name="history_clear">Cancella cronologia</string>
+    <string name="history_clear_body">Tutti i registri verranno eliminati. Le tue sveglie non sono interessate.</string>
+    <string name="settings_title">Impostazioni</string>
+    <string name="my_categories">Le mie categorie</string>
+    <string name="my_categories_empty">Non ne hai ancora create. Creane una per ciò che ti serve: Animali, Farmaci, Lezione…</string>
+    <string name="delete_category_title">Eliminare la categoria?</string>
+    <string name="delete_category_body">Le sveglie che usano %1$s torneranno a Generale.</string>
+    <string name="backup_title">Backup</string>
+    <string name="backup_body">Salva sveglie, modelli, categorie, cronometri e i tuoi file audio in un unico file, oppure ripristinali da uno.</string>
+    <string name="backup_export">Esporta</string>
+    <string name="backup_import">Ripristina</string>
+    <string name="backup_done">Backup salvato (%1$d sveglie)</string>
+    <string name="backup_failed">Impossibile salvare il backup</string>
+    <string name="restore_title">Ripristinare il backup?</string>
+    <string name="restore_body">Questo sostituisce tutto ciò che è ora nell\'app (sveglie, modelli, categorie e cronometri).</string>
+    <string name="restore_done">%1$d sveglie ripristinate</string>
+    <string name="restore_failed">Impossibile ripristinare questo file</string>
+    <string name="tab_sleep">Sonno</string>
+    <string name="sleep_title">Sonno</string>
+    <string name="sleep_awake">Il tuo sonno, registrato per te</string>
+    <string name="sleep_add_manual">Aggiungi una notte manualmente</string>
+    <string name="sleep_month">Mese</string>
+    <string name="sleep_year">Anno</string>
+    <string name="sleep_total">Totale</string>
+    <string name="sleep_hours_per_night">Ore per notte</string>
+    <string name="sleep_goal_hint">Linea tratteggiata = obiettivo di %1$d h</string>
+    <string name="sleep_nights">Notti</string>
+    <string name="sleep_avg_per_month">Media mensile</string>
+    <string name="sleep_nights_n">%1$d notti</string>
+    <string name="sleep_all_time">Dall\'inizio</string>
+    <string name="sleep_total_hours">Sonno totale</string>
+    <string name="sleep_longest">Notte più lunga</string>
+    <string name="sleep_shortest">Notte più corta</string>
+    <string name="sleep_per_year">Media annuale</string>
+    <string name="sleep_empty">Nessuna notte registrata in questo periodo.</string>
+    <string name="sleep_avg">Media</string>
+    <string name="sleep_avg_bed">Ora media di andare a letto</string>
+    <string name="sleep_avg_wake">Ora media di sveglia</string>
+    <string name="sleep_avg_quality">Voto medio</string>
+    <string name="sleep_wake_day">Giorno del risveglio</string>
+    <string name="sleep_fell_asleep">Addormentato alle</string>
+    <string name="sleep_woke_up">Svegliato alle</string>
+    <string name="cal_title">Importa dal calendario</string>
+    <string name="cal_body">Trasforma i prossimi eventi del calendario del telefono in sveglie. Legge soltanto; niente lascia il tuo telefono.</string>
+    <string name="cal_button">Scegli gli eventi</string>
+    <string name="cal_denied">Serve il permesso del calendario per leggere i tuoi eventi. Puoi consentirlo nelle impostazioni del telefono.</string>
+    <string name="cal_loading">Caricamento eventi…</string>
+    <string name="cal_empty">Nessun evento in questo periodo.</string>
+    <string name="cal_remind">Avvisami</string>
+    <string name="cal_on_time">All\'inizio</string>
+    <string name="cal_before">%1$d min prima</string>
+    <string name="cal_create">Crea %1$d</string>
+    <string name="cal_created">%1$d sveglie create</string>
+    <string name="cal_range">Guarda in avanti</string>
+    <string name="cal_days">%1$d giorni</string>
+    <string name="cal_one_year">1 anno</string>
+    <string name="channel_sleep">Sonno rilevato</string>
+    <string name="sleep_notif_title">Ho registrato il tuo sonno 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">Ho rilevato %1$d nuove notti</string>
+    <string name="sleep_notif_hint">Tocca per rivederlo e correggere gli orari se sono sbagliati.</string>
+    <string name="sleep_auto_title">Rilevamento automatico</string>
+    <string name="sleep_auto_body">Scopre quando hai dormito vedendo quando lo schermo del telefono è rimasto spento per ore durante la notte. Niente lascia il tuo telefono.</string>
+    <string name="sleep_auto_unsupported">Il rilevamento automatico richiede Android 9 o successivo. Puoi comunque aggiungere le notti manualmente.</string>
+    <string name="sleep_auto_need_access">Consenti \"Accesso all\'utilizzo\" a Buhito nelle impostazioni di Android così può vedere quando lo schermo era spento.</string>
+    <string name="sleep_auto_grant">Apri impostazioni</string>
+    <string name="sleep_detect_now">Rileva ora</string>
+    <string name="sleep_adjust">Regola</string>
+    <string name="sleep_hide_adjust">Nascondi</string>
+    <string name="sleep_adj_min">Sonno minimo per essere conteggiato</string>
+    <string name="sleep_adj_delay">Ci metto questo tempo ad addormentarmi dopo che lo schermo si spegne</string>
+    <string name="sleep_adj_from">Il sonno può iniziare da</string>
+    <string name="sleep_adj_check">Controlla e avvisami ogni mattina alle</string>
+    <string name="sleep_detected_n">%1$d nuove notti rilevate</string>
+    <string name="sleep_detected_none">Niente di nuovo da registrare</string>
+    <string name="sleep_auto_hint">🤖 = rilevato automaticamente. Tocca una notte per correggere gli orari o darle un voto.</string>
+    <string name="qr_stop_title">Scansiona il QR per fermare</string>
+    <string name="qr_stop_hint">Per spegnerla devi scansionare il tuo codice QR di Buhito. Tienilo lontano dal letto.</string>
+    <string name="qr_scan_button">Scansiona il QR per fermare</string>
+    <string name="qr_scan_prompt">Inquadra il tuo QR di Buhito</string>
+    <string name="qr_wrong">Quello non è il tuo codice di Buhito. Riprova.</string>
+    <string name="qr_camera_needed">Serve il permesso della fotocamera per fermare le sveglie con un QR</string>
+    <string name="qr_settings_title">Codice QR</string>
+    <string name="qr_settings_body">Il tuo codice personale per spegnere le sveglie. Salva l\'immagine e stampala, oppure mostrala su un altro schermo. Se la fotocamera non è disponibile, la sveglia torna a tieni premuto per fermare.</string>
+    <string name="qr_save">Salva immagine</string>
+    <string name="qr_saved">Immagine del QR salvata</string>
+    <string name="qr_new">Nuovo codice</string>
+    <string name="qr_new_title">Creare un nuovo codice?</string>
+    <string name="qr_new_body">Il vecchio codice smetterà di funzionare. Salva e stampa quello nuovo.</string>
+    <string name="lang_title">Lingua</string>
+    <string name="lang_body">Scegli la lingua dell\'app.</string>
+    <string name="ob_replay">Rivedi il tutorial</string>
+    <string name="ob_skip">Salta</string>
+    <string name="ob_next">Avanti</string>
+    <string name="ob_start">Andiamo!</string>
+    <string name="ob_1">Uhu! Benvenuto! Sono Buhito, il tuo gufo di guardia notturna 🦉 Ti mostro come funziona. Prima di tutto, scegli la lingua.</string>
+    <string name="ob_2">Questa è un\'app di sveglie. Tocca ＋ per crearne una: scegli l\'ora, i giorni e un nome.</string>
+    <string name="ob_3">Rendila tua: usa una suoneria di sistema, il tuo audio o perfino la tua voce. Aggiungi una categoria, una sequenza di squilli o fai leggere il nome ad alta voce al telefono.</string>
+    <string name="ob_4">Per fermare una sveglia puoi tenere premuto il pulsante per due secondi, oppure scansionare il tuo codice QR di Buhito. Salvalo e stampalo dalle Impostazioni.</string>
+    <string name="ob_5">Perché le sveglie suonino nella schermata di blocco, consenti notifiche, sveglie e avvisi a schermo intero. Ti avviso se manca qualcosa.</string>
+    <string name="ob_6">Oltre alle sveglie, registro il tuo sonno automaticamente 🌙 e il mio amico gatto cronometra i tuoi cronometri 🐱</string>
+    <string name="ob_7">Ecco fatto! Pronto a creare la tua prima sveglia?</string>
+    <string name="qr_strict_title">Modalità rigida</string>
+    <string name="qr_strict_hint">Le sveglie con QR si spengono solo scansionandolo: niente posticipo né altri pulsanti. Tieni il tuo QR stampato o a portata di mano.</string>
+</resources>

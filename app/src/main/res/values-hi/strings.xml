@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">अगला अलार्म %1$s में</string>
+    <string name="no_upcoming">कोई आगामी अलार्म नहीं</string>
+    <string name="new_alarm">नया अलार्म</string>
+    <string name="empty_title">अभी सब शांत है</string>
+    <string name="empty_body">अपनी आवाज़ के साथ पहला अलार्म बनाने के लिए बटन दबाएँ।</string>
+    <string name="today">आज</string>
+    <string name="tomorrow">कल</string>
+    <string name="delete_title">अलार्म हटाएँ?</string>
+    <string name="delete_body">इसे वापस नहीं किया जा सकता।</string>
+    <string name="perm_fix">सेट करें</string>
+    <string name="perm_exact_title">अलार्म और रिमाइंडर की अनुमति दें</string>
+    <string name="perm_exact_body">अलार्म ठीक समय पर बजने के लिए ज़रूरी है।</string>
+    <string name="perm_notif_title">नोटिफ़िकेशन की अनुमति दें</string>
+    <string name="perm_notif_body">इनके बिना अलार्म लॉक स्क्रीन पर नहीं दिख सकता।</string>
+    <string name="perm_fsi_title">फ़ुल-स्क्रीन अलर्ट की अनुमति दें</string>
+    <string name="perm_fsi_body">अलार्म को लॉक स्क्रीन के ऊपर खोलने के लिए ज़रूरी है।</string>
+    <string name="perm_batt_title">बैटरी पर कोई पाबंदी नहीं</string>
+    <string name="perm_batt_body">सुझाव: ताकि सिस्टम ऐप को सुलाए नहीं।</string>
+    <string name="edit_alarm">अलार्म बदलें</string>
+    <string name="back">वापस</string>
+    <string name="pick_date">तारीख़ चुनें</string>
+    <string name="rings_summary">%1$s · %2$s में</string>
+    <string name="label_field">नाम</string>
+    <string name="label_hint">जैसे: पढ़ाई का समय</string>
+    <string name="sound_title">आवाज़</string>
+    <string name="sound_system">सिस्टम टोन</string>
+    <string name="sound_file">आपका ऑडियो</string>
+    <string name="choose_tone">सिस्टम टोन</string>
+    <string name="choose_file">फ़ोन का ऑडियो</string>
+    <string name="default_alarm_tone">डिफ़ॉल्ट अलार्म</string>
+    <string name="tones_title">सिस्टम टोन</string>
+    <string name="done">हो गया</string>
+    <string name="preview">सुनें</string>
+    <string name="duration_title">अलार्म की अवधि</string>
+    <string name="duration_hint">आवाज़ (दोहराने पर) और अलार्म स्क्रीन इतनी देर तक रहेंगे</string>
+    <string name="vibration">कंपन</string>
+    <string name="save">सहेजें</string>
+    <string name="delete">हटाएँ</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="ok">ठीक है</string>
+    <string name="audio_import_failed">वह ऑडियो लोड नहीं हो सका</string>
+    <string name="alarm_default_title">अलार्म</string>
+    <string name="stop">रोकें</string>
+    <string name="snooze">स्नूज़</string>
+    <string name="snooze_n">%1$d मिनट स्नूज़</string>
+    <string name="minutes_short">%1$d मिनट</string>
+    <string name="snoozed_toast">%1$d मिनट के लिए स्नूज़ किया</string>
+    <string name="channel_alarm">अलार्म</string>
+    <string name="channel_alarm_desc">जो अलार्म अभी बज रहे हैं</string>
+    <string name="channel_missed">अनदेखे अलार्म</string>
+    <string name="missed_text">मैंने %1$s पर आपका इंतज़ार किया, पर मैं सो गया 💤</string>
+    <string name="dur_days_hours">%1$d दिन %2$d घंटे</string>
+    <string name="dur_hours_minutes">%1$d घंटे %2$d मिनट</string>
+    <string name="dur_minutes">%1$d मिनट</string>
+    <string name="dur_seconds">%1$d सेकंड</string>
+    <string name="dur_min_sec">%1$d मिनट %2$d सेकंड</string>
+    <string name="category_title">श्रेणी</string>
+    <string name="cat_general">सामान्य</string>
+    <string name="cat_study">पढ़ाई</string>
+    <string name="cat_gym">जिम</string>
+    <string name="cat_work">काम</string>
+    <string name="cat_health">सेहत</string>
+    <string name="cat_personal">निजी</string>
+    <string name="filter_all">सभी</string>
+    <string name="filter_active">चालू</string>
+    <string name="filter_paused">रुके हुए</string>
+    <string name="no_matches">यहाँ कुछ नहीं है</string>
+    <string name="repeat_title">दोहराएँ</string>
+    <string name="repeat_once">एक बार</string>
+    <string name="every_day">हर दिन</string>
+    <string name="weekdays">कार्यदिवस</string>
+    <string name="weekends">सप्ताहांत</string>
+    <string name="volume_title">वॉल्यूम</string>
+    <string name="loop_title">आवाज़ दोहराएँ</string>
+    <string name="loop_hint">बंद: आवाज़ एक बार बजेगी, पर अलार्म स्क्रीन पूरी अवधि तक रहेगी</string>
+    <string name="record_voice">आवाज़ रिकॉर्ड करें</string>
+    <string name="recorder_title">वॉइस संदेश</string>
+    <string name="record_tap">रिकॉर्ड करने के लिए दबाएँ</string>
+    <string name="recording">रिकॉर्ड हो रहा है…</string>
+    <string name="record_again">दोबारा रिकॉर्ड करें</string>
+    <string name="use_recording">इसे इस्तेमाल करें</string>
+    <string name="mic_denied">रिकॉर्ड करने के लिए माइक्रोफ़ोन की अनुमति चाहिए</string>
+    <string name="record_failed">रिकॉर्ड नहीं हो सका। फिर कोशिश करें।</string>
+    <string name="voice_note_name">वॉइस नोट %1$s</string>
+    <string name="templates_title">टेम्पलेट</string>
+    <string name="template_hint">इस्तेमाल के लिए दबाएँ · हटाने के लिए दबाए रखें</string>
+    <string name="save_template">टेम्पलेट के रूप में सहेजें</string>
+    <string name="template_name">टेम्पलेट का नाम</string>
+    <string name="template_saved">टेम्पलेट सहेजा गया</string>
+    <string name="delete_template_title">टेम्पलेट हटाएँ?</string>
+    <string name="saved_title">अलार्म तैयार!</string>
+    <string name="saved_body">%1$s में बजेगा</string>
+    <string name="greet_morning">सुप्रभात! ☀️</string>
+    <string name="greet_afternoon">नमस्कार!</string>
+    <string name="greet_evening">शुभ संध्या!</string>
+    <string name="greet_night">अभी तक जाग रहे हैं? मैं पहरे पर हूँ 🌙</string>
+    <string-array name="owl_lines">
+        <item>हू! मैं रात का पहरेदार हूँ।</item>
+        <item>मैं कोई अलार्म नहीं छोड़ता। कभी नहीं।</item>
+        <item>सुझाव: अपनी आवाज़ रिकॉर्ड करें। उसे अनसुना करना बहुत मुश्किल है।</item>
+        <item>हू हू… किसी ने स्नूज़ कहा?</item>
+        <item>बिल्ली को सहलाइए। धीरे से। वह सो रही है।</item>
+        <item>सुबह का उल्लू हो या रात का… हर उल्लू अच्छा उल्लू है।</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>म्याऊँ।</item>
+        <item>बस पाँच मिनट और…</item>
+        <item>घुर्र्र्र</item>
+        <item>Zzz… अरे। नमस्ते।</item>
+        <item>मुझे खाना दो। या नहीं। Zzz।</item>
+    </string-array>
+    <string name="notif_wake_up">हू हू! जागने का समय हो गया 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>हू हू! जागने का समय हो गया 🦉</item>
+        <item>मैं बस इसी के लिए रात भर जागा।</item>
+        <item>श्श… आपका अलार्म बुला रहा है।</item>
+        <item>मैं आपके लिए पंख फड़फड़ा रहा हूँ!</item>
+        <item>उठो उठो! दिन इंतज़ार कर रहा है।</item>
+    </string-array>
+    <string name="tab_alarms">अलार्म</string>
+    <string name="tab_stopwatch">स्टॉपवॉच</string>
+    <string name="sw_title">स्टॉपवॉच</string>
+    <string name="sw_running_n">%1$d चल रही हैं</string>
+    <string name="sw_all_paused">सब रुकी हुई हैं</string>
+    <string name="sw_new">नई स्टॉपवॉच</string>
+    <string name="sw_name_hint">नाम</string>
+    <string name="sw_default_name">स्टॉपवॉच %1$d</string>
+    <string name="sw_start">शुरू करें</string>
+    <string name="sw_pause">रोकें</string>
+    <string name="sw_resume">जारी रखें</string>
+    <string name="sw_lap">लैप</string>
+    <string name="sw_reset">रीसेट</string>
+    <string name="sw_running">चल रही है</string>
+    <string name="sw_paused">रुकी है</string>
+    <string name="sw_lap_n">लैप %1$d</string>
+    <string name="sw_more_laps">+%1$d पिछले लैप</string>
+    <string name="sw_empty_title">अभी कोई स्टॉपवॉच नहीं</string>
+    <string name="sw_empty_body">वर्कआउट, पढ़ाई या किसी भी चीज़ का समय नापने के लिए एक बनाएँ। ऐप बंद करने पर भी ये गिनती जारी रखती हैं।</string>
+    <string name="sw_delete_title">स्टॉपवॉच हटाएँ?</string>
+    <string-array name="sw_cat_lines">
+        <item>मैं आपके लिए घड़ी देख रहा हूँ!</item>
+        <item>टिक टॉक, टिक टॉक…</item>
+        <item>चलो चलो! 🐾</item>
+        <item>मैं उस सूई के पीछे दिन भर दौड़ सकता हूँ।</item>
+        <item>एकदम सही समय!</item>
+    </string-array>
+    <string name="open_alarm">खोलें</string>
+    <string name="hold_to_stop">रोकने के लिए दबाए रखें</string>
+    <string name="stop_all_chain">पूरी शृंखला रोकें</string>
+    <plurals name="chain_remaining">
+        <item quantity="one">%1$d घंटी और बाकी है</item>
+        <item quantity="other">%1$d घंटियाँ और बाकी हैं</item>
+    </plurals>
+    <string name="new_category">नई श्रेणी</string>
+    <string name="category_name">श्रेणी का नाम</string>
+    <string name="more_options">और विकल्प</string>
+    <string name="confirm_stop_title">रोकने के लिए दबाए रखें</string>
+    <string name="confirm_stop_hint">बटन को 2 सेकंड तक दबाए रखना होगा, ताकि आधी नींद में आप इसे बंद न कर दें</string>
+    <string name="speak_label_title">नाम ज़ोर से पढ़ें</string>
+    <string name="speak_label_hint">बजते समय फ़ोन नाम बोलकर सुनाएगा</string>
+    <string name="chain_title">शृंखला</string>
+    <string name="chain_hint">पहली घंटी के बाद अतिरिक्त घंटियाँ</string>
+    <string name="chain_off">बंद</string>
+    <string name="chain_every">हर</string>
+    <string name="tab_history">इतिहास</string>
+    <string name="tab_settings">सेटिंग</string>
+    <string name="history_title">इतिहास</string>
+    <string name="history_week">इस हफ़्ते: %1$d रोके गए · %2$d छूटे</string>
+    <string name="history_empty">अभी यहाँ कुछ नहीं है। अलार्म बजने पर वह यहाँ दिखेगा।</string>
+    <string name="result_stopped">रोका गया</string>
+    <string name="result_snoozed">स्नूज़ किया</string>
+    <string name="result_missed">छूटा</string>
+    <string name="result_ringing">बज रहा है</string>
+    <string name="history_clear">इतिहास साफ़ करें</string>
+    <string name="history_clear_body">सभी रिकॉर्ड हट जाएँगे। आपके अलार्म पर कोई असर नहीं पड़ेगा।</string>
+    <string name="settings_title">सेटिंग</string>
+    <string name="my_categories">मेरी श्रेणियाँ</string>
+    <string name="my_categories_empty">आपने अभी कोई नहीं बनाई। जो चाहें उसके लिए बनाएँ: पालतू जानवर, दवाइयाँ, क्लास…</string>
+    <string name="delete_category_title">श्रेणी हटाएँ?</string>
+    <string name="delete_category_body">%1$s वाले अलार्म वापस सामान्य में चले जाएँगे।</string>
+    <string name="backup_title">बैकअप</string>
+    <string name="backup_body">अपने अलार्म, टेम्पलेट, श्रेणियाँ, स्टॉपवॉच और अपनी ऑडियो फ़ाइलें एक फ़ाइल में सहेजें, या उसमें से बहाल करें।</string>
+    <string name="backup_export">निर्यात करें</string>
+    <string name="backup_import">बहाल करें</string>
+    <string name="backup_done">बैकअप सहेजा गया (%1$d अलार्म)</string>
+    <string name="backup_failed">बैकअप सहेजा नहीं जा सका</string>
+    <string name="restore_title">बैकअप बहाल करें?</string>
+    <string name="restore_body">इससे ऐप में अभी मौजूद सब कुछ (अलार्म, टेम्पलेट, श्रेणियाँ और स्टॉपवॉच) बदल जाएगा।</string>
+    <string name="restore_done">%1$d अलार्म बहाल किए गए</string>
+    <string name="restore_failed">वह फ़ाइल बहाल नहीं की जा सकी</string>
+    <string name="tab_sleep">नींद</string>
+    <string name="sleep_title">नींद</string>
+    <string name="sleep_awake">आपकी नींद, आपके लिए दर्ज</string>
+    <string name="sleep_add_manual">एक रात हाथ से जोड़ें</string>
+    <string name="sleep_month">महीना</string>
+    <string name="sleep_year">साल</string>
+    <string name="sleep_total">कुल</string>
+    <string name="sleep_hours_per_night">प्रति रात घंटे</string>
+    <string name="sleep_goal_hint">बिंदीदार रेखा = %1$d घंटे का लक्ष्य</string>
+    <string name="sleep_nights">रातें</string>
+    <string name="sleep_avg_per_month">मासिक औसत</string>
+    <string name="sleep_nights_n">%1$d रातें</string>
+    <string name="sleep_all_time">अब तक कुल</string>
+    <string name="sleep_total_hours">कुल नींद</string>
+    <string name="sleep_longest">सबसे लंबी रात</string>
+    <string name="sleep_shortest">सबसे छोटी रात</string>
+    <string name="sleep_per_year">वार्षिक औसत</string>
+    <string name="sleep_empty">इस अवधि में अभी कोई रात दर्ज नहीं है।</string>
+    <string name="sleep_avg">औसत</string>
+    <string name="sleep_avg_bed">औसत सोने का समय</string>
+    <string name="sleep_avg_wake">औसत जागने का समय</string>
+    <string name="sleep_avg_quality">औसत रेटिंग</string>
+    <string name="sleep_wake_day">जागने का दिन</string>
+    <string name="sleep_fell_asleep">सोए</string>
+    <string name="sleep_woke_up">जागे</string>
+    <string name="cal_title">कैलेंडर से आयात करें</string>
+    <string name="cal_body">अपने फ़ोन के कैलेंडर के आगामी कार्यक्रमों को अलार्म में बदलें। यह केवल पढ़ता है; कुछ भी आपके फ़ोन से बाहर नहीं जाता।</string>
+    <string name="cal_button">कार्यक्रम चुनें</string>
+    <string name="cal_denied">आपके कार्यक्रम पढ़ने के लिए कैलेंडर की अनुमति चाहिए। आप इसे फ़ोन की सेटिंग में दे सकते हैं।</string>
+    <string name="cal_loading">कार्यक्रम लोड हो रहे हैं…</string>
+    <string name="cal_empty">इस अवधि में कोई कार्यक्रम नहीं।</string>
+    <string name="cal_remind">मुझे सूचित करें</string>
+    <string name="cal_on_time">शुरू होने पर</string>
+    <string name="cal_before">%1$d मिनट पहले</string>
+    <string name="cal_create">%1$d बनाएँ</string>
+    <string name="cal_created">%1$d अलार्म बनाए गए</string>
+    <string name="cal_range">आगे देखें</string>
+    <string name="cal_days">%1$d दिन</string>
+    <string name="cal_one_year">1 साल</string>
+    <string name="channel_sleep">नींद पहचानी गई</string>
+    <string name="sleep_notif_title">मैंने आपकी नींद दर्ज कर ली 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">मैंने %1$d नई रातें पहचानीं</string>
+    <string name="sleep_notif_hint">जाँचने के लिए दबाएँ, और समय गलत हों तो सुधारें।</string>
+    <string name="sleep_auto_title">स्वचालित पहचान</string>
+    <string name="sleep_auto_body">रात में फ़ोन की स्क्रीन कई घंटे बंद रहने से पता लगाता है कि आप कब सोए। कुछ भी आपके फ़ोन से बाहर नहीं जाता।</string>
+    <string name="sleep_auto_unsupported">स्वचालित पहचान के लिए Android 9 या नया चाहिए। आप फिर भी रातें हाथ से जोड़ सकते हैं।</string>
+    <string name="sleep_auto_need_access">Android सेटिंग में Buhito को \"उपयोग एक्सेस\" की अनुमति दें, ताकि वह देख सके कि स्क्रीन कब बंद थी।</string>
+    <string name="sleep_auto_grant">सेटिंग खोलें</string>
+    <string name="sleep_detect_now">अभी पहचानें</string>
+    <string name="sleep_adjust">समायोजित करें</string>
+    <string name="sleep_hide_adjust">छिपाएँ</string>
+    <string name="sleep_adj_min">गिनने के लिए न्यूनतम नींद</string>
+    <string name="sleep_adj_delay">स्क्रीन बंद होने के बाद मुझे सोने में इतना समय लगता है</string>
+    <string name="sleep_adj_from">नींद इस समय से शुरू हो सकती है</string>
+    <string name="sleep_adj_check">हर सुबह जाँचकर मुझे सूचित करें, समय</string>
+    <string name="sleep_detected_n">%1$d नई रातें पहचानी गईं</string>
+    <string name="sleep_detected_none">दर्ज करने के लिए कुछ नया नहीं</string>
+    <string name="sleep_auto_hint">🤖 = अपने आप पहचानी गई। समय सुधारने या रेटिंग देने के लिए किसी रात को दबाएँ।</string>
+    <string name="qr_stop_title">रोकने के लिए QR स्कैन करें</string>
+    <string name="qr_stop_hint">इसे बंद करने के लिए आपको अपना Buhito QR कोड स्कैन करना होगा। इसे बिस्तर से दूर रखें।</string>
+    <string name="qr_scan_button">रोकने के लिए QR स्कैन करें</string>
+    <string name="qr_scan_prompt">कैमरे को अपने Buhito QR की ओर करें</string>
+    <string name="qr_wrong">यह आपका Buhito कोड नहीं है। फिर कोशिश करें।</string>
+    <string name="qr_camera_needed">QR से अलार्म रोकने के लिए कैमरे की अनुमति चाहिए</string>
+    <string name="qr_settings_title">QR कोड</string>
+    <string name="qr_settings_body">अलार्म बंद करने के लिए आपका निजी कोड। तस्वीर सहेजकर प्रिंट करें, या किसी दूसरी स्क्रीन पर दिखाएँ। कैमरा उपलब्ध न हो तो अलार्म दबाए रखकर रोकने पर लौट आता है।</string>
+    <string name="qr_save">तस्वीर सहेजें</string>
+    <string name="qr_saved">QR की तस्वीर सहेजी गई</string>
+    <string name="qr_new">नया कोड</string>
+    <string name="qr_new_title">नया कोड बनाएँ?</string>
+    <string name="qr_new_body">पुराना कोड काम करना बंद कर देगा। नया कोड सहेजें और प्रिंट करें।</string>
+    <string name="lang_title">भाषा</string>
+    <string name="lang_body">ऐप की भाषा चुनें।</string>
+    <string name="ob_replay">टूर फिर से देखें</string>
+    <string name="ob_skip">छोड़ें</string>
+    <string name="ob_next">आगे</string>
+    <string name="ob_start">चलिए शुरू करें!</string>
+    <string name="ob_1">हू! स्वागत है! मैं Buhito हूँ, आपका रात का पहरेदार उल्लू 🦉 मैं आपको सब दिखाता हूँ। सबसे पहले अपनी भाषा चुनें।</string>
+    <string name="ob_2">यह एक अलार्म ऐप है। अलार्म बनाने के लिए ＋ दबाएँ: समय, दिन और नाम चुनें।</string>
+    <string name="ob_3">इसे अपना बनाएँ: सिस्टम टोन, अपना ऑडियो या अपनी आवाज़ तक इस्तेमाल करें। श्रेणी, घंटियों की शृंखला जोड़ें या फ़ोन से नाम ज़ोर से पढ़वाएँ।</string>
+    <string name="ob_4">अलार्म रोकने के लिए बटन को दो सेकंड दबाए रखें, या अपना Buhito QR कोड स्कैन करें। इसे सेटिंग से सहेजें और प्रिंट करें।</string>
+    <string name="ob_5">अलार्म लॉक स्क्रीन पर बजें, इसके लिए नोटिफ़िकेशन, अलार्म और फ़ुल-स्क्रीन अलर्ट की अनुमति दें। कुछ छूटा तो मैं याद दिला दूँगा।</string>
+    <string name="ob_6">अलार्म के अलावा मैं आपकी नींद अपने आप दर्ज करता हूँ 🌙 और मेरा दोस्त बिल्ला आपकी स्टॉपवॉच का समय नापता है 🐱</string>
+    <string name="ob_7">बस इतना ही! अपना पहला अलार्म बनाने के लिए तैयार हैं?</string>
+    <string name="qr_strict_title">सख़्त मोड</string>
+    <string name="qr_strict_hint">QR वाले अलार्म केवल उसे स्कैन करके ही बंद होते हैं: न स्नूज़, न कोई और बटन। अपना QR प्रिंट करके या पास रखें।</string>
+</resources>

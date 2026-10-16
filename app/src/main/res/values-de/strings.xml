@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">Nächster Wecker in %1$s</string>
+    <string name="no_upcoming">Keine anstehenden Wecker</string>
+    <string name="new_alarm">Neuer Wecker</string>
+    <string name="empty_title">Alles ruhig</string>
+    <string name="empty_body">Tippe auf den Button, um deinen ersten Wecker mit deinem eigenen Sound zu erstellen.</string>
+    <string name="today">Heute</string>
+    <string name="tomorrow">Morgen</string>
+    <string name="delete_title">Wecker löschen?</string>
+    <string name="delete_body">Das kann nicht rückgängig gemacht werden.</string>
+    <string name="perm_fix">Einrichten</string>
+    <string name="perm_exact_title">Wecker und Erinnerungen erlauben</string>
+    <string name="perm_exact_body">Nötig, damit Wecker zur genauen Zeit klingeln.</string>
+    <string name="perm_notif_title">Benachrichtigungen erlauben</string>
+    <string name="perm_notif_body">Ohne sie kann der Wecker nicht auf dem Sperrbildschirm erscheinen.</string>
+    <string name="perm_fsi_title">Vollbild-Hinweise erlauben</string>
+    <string name="perm_fsi_body">Nötig, damit sich der Wecker über dem Sperrbildschirm öffnet.</string>
+    <string name="perm_batt_title">Akku ohne Einschränkung</string>
+    <string name="perm_batt_body">Empfohlen, damit das System die App nicht schlafen legt.</string>
+    <string name="edit_alarm">Wecker bearbeiten</string>
+    <string name="back">Zurück</string>
+    <string name="pick_date">Datum wählen</string>
+    <string name="rings_summary">%1$s · in %2$s</string>
+    <string name="label_field">Name</string>
+    <string name="label_hint">z. B. Lernstunde</string>
+    <string name="sound_title">Ton</string>
+    <string name="sound_system">Systemton</string>
+    <string name="sound_file">Dein Audio</string>
+    <string name="choose_tone">Systemtöne</string>
+    <string name="choose_file">Audio vom Handy</string>
+    <string name="default_alarm_tone">Standardwecker</string>
+    <string name="tones_title">Systemtöne</string>
+    <string name="done">Fertig</string>
+    <string name="preview">Anhören</string>
+    <string name="duration_title">Weckdauer</string>
+    <string name="duration_hint">Ton (bei Wiederholung) und Weckerbildschirm dauern so lange</string>
+    <string name="vibration">Vibration</string>
+    <string name="save">Speichern</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+    <string name="audio_import_failed">Dieses Audio konnte nicht geladen werden</string>
+    <string name="alarm_default_title">Wecker</string>
+    <string name="stop">Stopp</string>
+    <string name="snooze">Schlummern</string>
+    <string name="snooze_n">%1$d Min. schlummern</string>
+    <string name="minutes_short">%1$d Min.</string>
+    <string name="snoozed_toast">%1$d Min. geschlummert</string>
+    <string name="channel_alarm">Wecker</string>
+    <string name="channel_alarm_desc">Wecker, die gerade klingeln</string>
+    <string name="channel_missed">Unbeachtete Wecker</string>
+    <string name="missed_text">Ich habe um %1$s auf dich gewartet, bin aber eingeschlafen 💤</string>
+    <string name="dur_days_hours">%1$d T %2$d Std.</string>
+    <string name="dur_hours_minutes">%1$d Std. %2$d Min.</string>
+    <string name="dur_minutes">%1$d Min.</string>
+    <string name="dur_seconds">%1$d s</string>
+    <string name="dur_min_sec">%1$d Min. %2$d s</string>
+    <string name="category_title">Kategorie</string>
+    <string name="cat_general">Allgemein</string>
+    <string name="cat_study">Lernen</string>
+    <string name="cat_gym">Sport</string>
+    <string name="cat_work">Arbeit</string>
+    <string name="cat_health">Gesundheit</string>
+    <string name="cat_personal">Privat</string>
+    <string name="filter_all">Alle</string>
+    <string name="filter_active">Aktiv</string>
+    <string name="filter_paused">Pausiert</string>
+    <string name="no_matches">Hier ist nichts</string>
+    <string name="repeat_title">Wiederholen</string>
+    <string name="repeat_once">Einmal</string>
+    <string name="every_day">Jeden Tag</string>
+    <string name="weekdays">Werktage</string>
+    <string name="weekends">Wochenende</string>
+    <string name="volume_title">Lautstärke</string>
+    <string name="loop_title">Ton wiederholen</string>
+    <string name="loop_hint">Aus: Der Ton spielt einmal, aber der Weckerbildschirm bleibt die ganze Dauer sichtbar</string>
+    <string name="record_voice">Stimme aufnehmen</string>
+    <string name="recorder_title">Sprachnachricht</string>
+    <string name="record_tap">Zum Aufnehmen tippen</string>
+    <string name="recording">Aufnahme läuft…</string>
+    <string name="record_again">Neu aufnehmen</string>
+    <string name="use_recording">Verwenden</string>
+    <string name="mic_denied">Für die Aufnahme wird die Mikrofon-Berechtigung benötigt</string>
+    <string name="record_failed">Aufnahme fehlgeschlagen. Versuche es erneut.</string>
+    <string name="voice_note_name">Sprachnotiz %1$s</string>
+    <string name="templates_title">Vorlagen</string>
+    <string name="template_hint">Tippen zum Verwenden · gedrückt halten zum Löschen</string>
+    <string name="save_template">Als Vorlage speichern</string>
+    <string name="template_name">Name der Vorlage</string>
+    <string name="template_saved">Vorlage gespeichert</string>
+    <string name="delete_template_title">Vorlage löschen?</string>
+    <string name="saved_title">Wecker bereit!</string>
+    <string name="saved_body">Klingelt in %1$s</string>
+    <string name="greet_morning">Guten Morgen! ☀️</string>
+    <string name="greet_afternoon">Guten Tag!</string>
+    <string name="greet_evening">Guten Abend!</string>
+    <string name="greet_night">Noch wach? Ich halte Wache 🌙</string>
+    <string-array name="owl_lines">
+        <item>Huhu! Ich halte Nachtwache.</item>
+        <item>Ich verpasse nie einen Wecker. Nie.</item>
+        <item>Tipp: Nimm deine eigene Stimme auf. Die ist viel schwerer zu ignorieren.</item>
+        <item>Uhu uhu… hat jemand Schlummern gesagt?</item>
+        <item>Streichle die Katze. Ganz sanft. Sie schläft.</item>
+        <item>Frühe Eule oder Nachteule… alle Eulen sind gute Eulen.</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>Miau.</item>
+        <item>Noch fünf Minuten…</item>
+        <item>Schnurr</item>
+        <item>Zzz… oh. Hallo.</item>
+        <item>Füttere mich. Oder nicht. Zzz.</item>
+    </string-array>
+    <string name="notif_wake_up">Huhu! Zeit zum Aufstehen 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>Huhu! Zeit zum Aufstehen 🦉</item>
+        <item>Ich war die ganze Nacht nur dafür wach.</item>
+        <item>Psst… dein Wecker ruft dich.</item>
+        <item>Ich schlage für dich mit den Flügeln!</item>
+        <item>Auf, auf! Der Tag wartet.</item>
+    </string-array>
+    <string name="tab_alarms">Wecker</string>
+    <string name="tab_stopwatch">Stoppuhr</string>
+    <string name="sw_title">Stoppuhren</string>
+    <string name="sw_running_n">%1$d laufen</string>
+    <string name="sw_all_paused">Alle pausiert</string>
+    <string name="sw_new">Neue Stoppuhr</string>
+    <string name="sw_name_hint">Name</string>
+    <string name="sw_default_name">Stoppuhr %1$d</string>
+    <string name="sw_start">Start</string>
+    <string name="sw_pause">Pause</string>
+    <string name="sw_resume">Weiter</string>
+    <string name="sw_lap">Runde</string>
+    <string name="sw_reset">Zurücksetzen</string>
+    <string name="sw_running">Läuft</string>
+    <string name="sw_paused">Pausiert</string>
+    <string name="sw_lap_n">Runde %1$d</string>
+    <string name="sw_more_laps">+%1$d frühere Runden</string>
+    <string name="sw_empty_title">Noch keine Stoppuhren</string>
+    <string name="sw_empty_body">Erstelle eine, um Training, Lernen oder alles andere zu messen. Sie zählen weiter, auch wenn du die App schließt.</string>
+    <string name="sw_delete_title">Stoppuhr löschen?</string>
+    <string-array name="sw_cat_lines">
+        <item>Ich behalte die Uhr für dich im Auge!</item>
+        <item>Tick tack, tick tack…</item>
+        <item>Los, los, los! 🐾</item>
+        <item>Ich könnte diesen Zeiger den ganzen Tag jagen.</item>
+        <item>Pfotenperfektes Timing!</item>
+    </string-array>
+    <string name="open_alarm">Öffnen</string>
+    <string name="hold_to_stop">Gedrückt halten zum Stoppen</string>
+    <string name="stop_all_chain">Ganze Abfolge stoppen</string>
+    <plurals name="chain_remaining">
+        <item quantity="one">Noch %1$d Klingeln</item>
+        <item quantity="other">Noch %1$d Klingeln</item>
+    </plurals>
+    <string name="new_category">Neue Kategorie</string>
+    <string name="category_name">Name der Kategorie</string>
+    <string name="more_options">Weitere Optionen</string>
+    <string name="confirm_stop_title">Gedrückt halten zum Stoppen</string>
+    <string name="confirm_stop_hint">Du musst den Button 2 Sekunden halten, damit du den Wecker nicht im Halbschlaf ausschaltest</string>
+    <string name="speak_label_title">Namen vorlesen</string>
+    <string name="speak_label_hint">Das Handy sagt den Namen, während es klingelt</string>
+    <string name="chain_title">Abfolge</string>
+    <string name="chain_hint">Zusätzliche Klingeltöne nach dem ersten</string>
+    <string name="chain_off">Aus</string>
+    <string name="chain_every">Alle</string>
+    <string name="tab_history">Verlauf</string>
+    <string name="tab_settings">Einstellungen</string>
+    <string name="history_title">Verlauf</string>
+    <string name="history_week">Diese Woche: %1$d gestoppt · %2$d verpasst</string>
+    <string name="history_empty">Noch nichts hier. Wenn ein Wecker klingelt, erscheint er hier.</string>
+    <string name="result_stopped">Gestoppt</string>
+    <string name="result_snoozed">Geschlummert</string>
+    <string name="result_missed">Verpasst</string>
+    <string name="result_ringing">Klingelt</string>
+    <string name="history_clear">Verlauf löschen</string>
+    <string name="history_clear_body">Alle Einträge werden entfernt. Deine Wecker bleiben unverändert.</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="my_categories">Meine Kategorien</string>
+    <string name="my_categories_empty">Du hast noch keine erstellt. Erstelle eine für alles, was du brauchst: Haustiere, Medikamente, Kurs…</string>
+    <string name="delete_category_title">Kategorie löschen?</string>
+    <string name="delete_category_body">Wecker mit %1$s wechseln zurück zu Allgemein.</string>
+    <string name="backup_title">Sicherung</string>
+    <string name="backup_body">Speichere deine Wecker, Vorlagen, Kategorien, Stoppuhren und eigenen Audiodateien in einer Datei oder stelle sie daraus wieder her.</string>
+    <string name="backup_export">Exportieren</string>
+    <string name="backup_import">Wiederherstellen</string>
+    <string name="backup_done">Sicherung gespeichert (%1$d Wecker)</string>
+    <string name="backup_failed">Die Sicherung konnte nicht gespeichert werden</string>
+    <string name="restore_title">Sicherung wiederherstellen?</string>
+    <string name="restore_body">Das ersetzt alles, was jetzt in der App ist (Wecker, Vorlagen, Kategorien und Stoppuhren).</string>
+    <string name="restore_done">%1$d Wecker wiederhergestellt</string>
+    <string name="restore_failed">Diese Datei konnte nicht wiederhergestellt werden</string>
+    <string name="tab_sleep">Schlaf</string>
+    <string name="sleep_title">Schlaf</string>
+    <string name="sleep_awake">Dein Schlaf, für dich erfasst</string>
+    <string name="sleep_add_manual">Nacht manuell hinzufügen</string>
+    <string name="sleep_month">Monat</string>
+    <string name="sleep_year">Jahr</string>
+    <string name="sleep_total">Gesamt</string>
+    <string name="sleep_hours_per_night">Stunden pro Nacht</string>
+    <string name="sleep_goal_hint">Gestrichelte Linie = Ziel von %1$d Std.</string>
+    <string name="sleep_nights">Nächte</string>
+    <string name="sleep_avg_per_month">Durchschnitt pro Monat</string>
+    <string name="sleep_nights_n">%1$d Nächte</string>
+    <string name="sleep_all_time">Insgesamt</string>
+    <string name="sleep_total_hours">Gesamtschlaf</string>
+    <string name="sleep_longest">Längste Nacht</string>
+    <string name="sleep_shortest">Kürzeste Nacht</string>
+    <string name="sleep_per_year">Durchschnitt pro Jahr</string>
+    <string name="sleep_empty">In diesem Zeitraum sind noch keine Nächte erfasst.</string>
+    <string name="sleep_avg">Durchschnitt</string>
+    <string name="sleep_avg_bed">Ø Zubettgehzeit</string>
+    <string name="sleep_avg_wake">Ø Aufstehzeit</string>
+    <string name="sleep_avg_quality">Ø Bewertung</string>
+    <string name="sleep_wake_day">Tag des Aufwachens</string>
+    <string name="sleep_fell_asleep">Eingeschlafen um</string>
+    <string name="sleep_woke_up">Aufgewacht um</string>
+    <string name="cal_title">Aus Kalender importieren</string>
+    <string name="cal_body">Verwandle kommende Termine aus dem Kalender deines Handys in Wecker. Es wird nur gelesen; nichts verlässt dein Handy.</string>
+    <string name="cal_button">Termine auswählen</string>
+    <string name="cal_denied">Die Kalender-Berechtigung wird benötigt, um deine Termine zu lesen. Du kannst sie in den Handy-Einstellungen erlauben.</string>
+    <string name="cal_loading">Termine werden geladen…</string>
+    <string name="cal_empty">Keine Termine in diesem Zeitraum.</string>
+    <string name="cal_remind">Erinnern</string>
+    <string name="cal_on_time">Zum Beginn</string>
+    <string name="cal_before">%1$d Min. vorher</string>
+    <string name="cal_create">%1$d erstellen</string>
+    <string name="cal_created">%1$d Wecker erstellt</string>
+    <string name="cal_range">Vorausschau</string>
+    <string name="cal_days">%1$d Tage</string>
+    <string name="cal_one_year">1 Jahr</string>
+    <string name="channel_sleep">Schlaf erkannt</string>
+    <string name="sleep_notif_title">Ich habe deinen Schlaf erfasst 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">%1$d neue Nächte erkannt</string>
+    <string name="sleep_notif_hint">Tippe, um sie zu prüfen und die Zeiten bei Bedarf zu korrigieren.</string>
+    <string name="sleep_auto_title">Automatische Erkennung</string>
+    <string name="sleep_auto_body">Findet heraus, wann du geschlafen hast, indem sie schaut, wann dein Handybildschirm nachts stundenlang aus war. Nichts verlässt dein Handy.</string>
+    <string name="sleep_auto_unsupported">Die automatische Erkennung benötigt Android 9 oder neuer. Nächte kannst du weiterhin manuell hinzufügen.</string>
+    <string name="sleep_auto_need_access">Erlaube Buhito in den Android-Einstellungen den „Zugriff auf Nutzungsdaten“, damit es sieht, wann der Bildschirm aus war.</string>
+    <string name="sleep_auto_grant">Einstellungen öffnen</string>
+    <string name="sleep_detect_now">Jetzt erkennen</string>
+    <string name="sleep_adjust">Anpassen</string>
+    <string name="sleep_hide_adjust">Ausblenden</string>
+    <string name="sleep_adj_min">Mindestschlaf, damit es zählt</string>
+    <string name="sleep_adj_delay">So lange brauche ich zum Einschlafen, nachdem der Bildschirm aus ist</string>
+    <string name="sleep_adj_from">Schlaf kann beginnen ab</string>
+    <string name="sleep_adj_check">Jeden Morgen prüfen und mich benachrichtigen um</string>
+    <string name="sleep_detected_n">%1$d neue Nächte erkannt</string>
+    <string name="sleep_detected_none">Nichts Neues zu erfassen</string>
+    <string name="sleep_auto_hint">🤖 = automatisch erkannt. Tippe auf eine Nacht, um Zeiten zu korrigieren oder sie zu bewerten.</string>
+    <string name="qr_stop_title">QR scannen zum Stoppen</string>
+    <string name="qr_stop_hint">Zum Ausschalten musst du deinen Buhito-QR-Code scannen. Bewahre ihn weit weg vom Bett auf.</string>
+    <string name="qr_scan_button">QR scannen zum Stoppen</string>
+    <string name="qr_scan_prompt">Richte die Kamera auf deinen Buhito-QR</string>
+    <string name="qr_wrong">Das ist nicht dein Buhito-Code. Versuche es erneut.</string>
+    <string name="qr_camera_needed">Für das Stoppen per QR wird die Kamera-Berechtigung benötigt</string>
+    <string name="qr_settings_title">QR-Code</string>
+    <string name="qr_settings_body">Dein persönlicher Code zum Ausschalten von Weckern. Speichere das Bild und drucke es aus oder zeige es auf einem anderen Bildschirm. Ist die Kamera nicht verfügbar, gilt wieder Gedrückt-halten-zum-Stoppen.</string>
+    <string name="qr_save">Bild speichern</string>
+    <string name="qr_saved">QR-Bild gespeichert</string>
+    <string name="qr_new">Neuer Code</string>
+    <string name="qr_new_title">Neuen Code erstellen?</string>
+    <string name="qr_new_body">Der alte Code funktioniert dann nicht mehr. Speichere und drucke den neuen.</string>
+    <string name="lang_title">Sprache</string>
+    <string name="lang_body">Wähle die Sprache der App.</string>
+    <string name="ob_replay">Rundgang erneut ansehen</string>
+    <string name="ob_skip">Überspringen</string>
+    <string name="ob_next">Weiter</string>
+    <string name="ob_start">Los geht\'s!</string>
+    <string name="ob_1">Huhu! Willkommen! Ich bin Buhito, deine Nachtwacheneule 🦉 Ich zeige dir alles. Wähle zuerst deine Sprache.</string>
+    <string name="ob_2">Das ist eine Wecker-App. Tippe auf ＋, um einen zu erstellen: Wähle Uhrzeit, Tage und einen Namen.</string>
+    <string name="ob_3">Mach ihn zu deinem: Nimm einen Systemton, dein eigenes Audio oder sogar deine Stimme. Füge eine Kategorie, eine Klingelabfolge hinzu oder lass das Handy den Namen vorlesen.</string>
+    <string name="ob_4">Um einen Wecker zu stoppen, halte den Button zwei Sekunden gedrückt oder scanne deinen Buhito-QR-Code. Speichere und drucke ihn in den Einstellungen.</string>
+    <string name="ob_5">Damit Wecker auf dem Sperrbildschirm klingeln, erlaube Benachrichtigungen, Wecker und Vollbild-Hinweise. Ich sage Bescheid, wenn etwas fehlt.</string>
+    <string name="ob_6">Außer Wecker erfasse ich automatisch deinen Schlaf 🌙 und mein Freund, die Katze, stoppt deine Zeiten 🐱</string>
+    <string name="ob_7">Das war\'s! Bereit, deinen ersten Wecker zu erstellen?</string>
+    <string name="qr_strict_title">Strenger Modus</string>
+    <string name="qr_strict_hint">Wecker mit QR lassen sich nur durch Scannen ausschalten: kein Schlummern, keine andere Taste. Halte deinen QR-Code ausgedruckt oder griffbereit.</string>
+</resources>

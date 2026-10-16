@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">下一个闹钟将在%1$s后响起</string>
+    <string name="no_upcoming">没有即将响起的闹钟</string>
+    <string name="new_alarm">新建闹钟</string>
+    <string name="empty_title">暂时一片安静</string>
+    <string name="empty_body">点按按钮，用你自己的声音创建第一个闹钟。</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="delete_title">删除闹钟？</string>
+    <string name="delete_body">此操作无法撤销。</string>
+    <string name="perm_fix">去设置</string>
+    <string name="perm_exact_title">允许闹钟和提醒</string>
+    <string name="perm_exact_body">需要此权限，闹钟才能准时响起。</string>
+    <string name="perm_notif_title">允许通知</string>
+    <string name="perm_notif_body">没有通知权限，闹钟无法显示在锁屏上。</string>
+    <string name="perm_fsi_title">允许全屏提醒</string>
+    <string name="perm_fsi_body">需要此权限，闹钟才能在锁屏上方打开。</string>
+    <string name="perm_batt_title">电池无限制</string>
+    <string name="perm_batt_body">建议开启，避免系统让应用进入休眠。</string>
+    <string name="edit_alarm">编辑闹钟</string>
+    <string name="back">返回</string>
+    <string name="pick_date">选择日期</string>
+    <string name="rings_summary">%1$s · %2$s后</string>
+    <string name="label_field">名称</string>
+    <string name="label_hint">例如：学习时间</string>
+    <string name="sound_title">声音</string>
+    <string name="sound_system">系统铃声</string>
+    <string name="sound_file">你的音频</string>
+    <string name="choose_tone">系统铃声</string>
+    <string name="choose_file">手机音频</string>
+    <string name="default_alarm_tone">默认闹钟</string>
+    <string name="tones_title">系统铃声</string>
+    <string name="done">完成</string>
+    <string name="preview">试听</string>
+    <string name="duration_title">闹钟时长</string>
+    <string name="duration_hint">声音（若循环）和闹钟界面持续这么久</string>
+    <string name="vibration">振动</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="audio_import_failed">无法加载该音频</string>
+    <string name="alarm_default_title">闹钟</string>
+    <string name="stop">停止</string>
+    <string name="snooze">稍后提醒</string>
+    <string name="snooze_n">稍后提醒 %1$d 分钟</string>
+    <string name="minutes_short">%1$d 分钟</string>
+    <string name="snoozed_toast">已推迟 %1$d 分钟</string>
+    <string name="channel_alarm">闹钟</string>
+    <string name="channel_alarm_desc">正在响起的闹钟</string>
+    <string name="channel_missed">未处理的闹钟</string>
+    <string name="missed_text">我在 %1$s 等你，可我睡着了 💤</string>
+    <string name="dur_days_hours">%1$d天%2$d小时</string>
+    <string name="dur_hours_minutes">%1$d小时%2$d分钟</string>
+    <string name="dur_minutes">%1$d分钟</string>
+    <string name="dur_seconds">%1$d秒</string>
+    <string name="dur_min_sec">%1$d分%2$d秒</string>
+    <string name="category_title">分类</string>
+    <string name="cat_general">通用</string>
+    <string name="cat_study">学习</string>
+    <string name="cat_gym">健身</string>
+    <string name="cat_work">工作</string>
+    <string name="cat_health">健康</string>
+    <string name="cat_personal">个人</string>
+    <string name="filter_all">全部</string>
+    <string name="filter_active">已启用</string>
+    <string name="filter_paused">已暂停</string>
+    <string name="no_matches">这里什么都没有</string>
+    <string name="repeat_title">重复</string>
+    <string name="repeat_once">仅一次</string>
+    <string name="every_day">每天</string>
+    <string name="weekdays">工作日</string>
+    <string name="weekends">周末</string>
+    <string name="volume_title">音量</string>
+    <string name="loop_title">循环播放声音</string>
+    <string name="loop_hint">关闭：声音只播放一次，但闹钟界面会在整个时长内保持显示</string>
+    <string name="record_voice">录制声音</string>
+    <string name="recorder_title">语音留言</string>
+    <string name="record_tap">点按开始录音</string>
+    <string name="recording">正在录音…</string>
+    <string name="record_again">重新录制</string>
+    <string name="use_recording">使用这个</string>
+    <string name="mic_denied">录音需要麦克风权限</string>
+    <string name="record_failed">录音失败，请重试。</string>
+    <string name="voice_note_name">语音备忘 %1$s</string>
+    <string name="templates_title">模板</string>
+    <string name="template_hint">点按使用 · 长按删除</string>
+    <string name="save_template">保存为模板</string>
+    <string name="template_name">模板名称</string>
+    <string name="template_saved">模板已保存</string>
+    <string name="delete_template_title">删除模板？</string>
+    <string name="saved_title">闹钟已就绪！</string>
+    <string name="saved_body">将在%1$s后响起</string>
+    <string name="greet_morning">早上好！☀️</string>
+    <string name="greet_afternoon">下午好！</string>
+    <string name="greet_evening">晚上好！</string>
+    <string name="greet_night">还没睡？我在守夜 🌙</string>
+    <string-array name="owl_lines">
+        <item>呜！我在值夜班。</item>
+        <item>我从不错过闹钟，从不。</item>
+        <item>小贴士：录下你自己的声音，更难被无视。</item>
+        <item>呜呜……有人说稍后提醒吗？</item>
+        <item>轻轻摸摸小猫，它正在睡觉。</item>
+        <item>早起的猫头鹰还是夜猫子……每只猫头鹰都是好猫头鹰。</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>喵。</item>
+        <item>再睡五分钟……</item>
+        <item>呼噜噜</item>
+        <item>Zzz……哦，嗨。</item>
+        <item>喂我吧。或者不喂。Zzz。</item>
+    </string-array>
+    <string name="notif_wake_up">呜呜！该起床啦 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>呜呜！该起床啦 🦉</item>
+        <item>我整夜没睡，就为了这一刻。</item>
+        <item>嘘……你的闹钟在叫你。</item>
+        <item>我为你扇动翅膀！</item>
+        <item>起来起来！新的一天在等你。</item>
+    </string-array>
+    <string name="tab_alarms">闹钟</string>
+    <string name="tab_stopwatch">秒表</string>
+    <string name="sw_title">秒表</string>
+    <string name="sw_running_n">%1$d 个运行中</string>
+    <string name="sw_all_paused">全部已暂停</string>
+    <string name="sw_new">新建秒表</string>
+    <string name="sw_name_hint">名称</string>
+    <string name="sw_default_name">秒表 %1$d</string>
+    <string name="sw_start">开始</string>
+    <string name="sw_pause">暂停</string>
+    <string name="sw_resume">继续</string>
+    <string name="sw_lap">计圈</string>
+    <string name="sw_reset">重置</string>
+    <string name="sw_running">运行中</string>
+    <string name="sw_paused">已暂停</string>
+    <string name="sw_lap_n">第 %1$d 圈</string>
+    <string name="sw_more_laps">还有 %1$d 个更早的圈</string>
+    <string name="sw_empty_title">还没有秒表</string>
+    <string name="sw_empty_body">创建一个来为训练、学习或任何事情计时。即使关闭应用，它们也会继续计时。</string>
+    <string name="sw_delete_title">删除秒表？</string>
+    <string-array name="sw_cat_lines">
+        <item>我替你盯着时间！</item>
+        <item>滴答，滴答……</item>
+        <item>加油加油！🐾</item>
+        <item>我能追着那根指针玩一整天。</item>
+        <item>时间刚刚好！</item>
+    </string-array>
+    <string name="open_alarm">打开</string>
+    <string name="hold_to_stop">长按以停止</string>
+    <string name="stop_all_chain">停止整个序列</string>
+    <plurals name="chain_remaining">
+        <item quantity="other">还剩 %1$d 次响铃</item>
+    </plurals>
+    <string name="new_category">新建分类</string>
+    <string name="category_name">分类名称</string>
+    <string name="more_options">更多选项</string>
+    <string name="confirm_stop_title">长按停止</string>
+    <string name="confirm_stop_hint">需要长按按钮 2 秒，这样就不会在半梦半醒时关掉闹钟</string>
+    <string name="speak_label_title">朗读名称</string>
+    <string name="speak_label_hint">响铃时手机会读出闹钟名称</string>
+    <string name="chain_title">序列</string>
+    <string name="chain_hint">第一次响铃之后的额外响铃</string>
+    <string name="chain_off">关闭</string>
+    <string name="chain_every">每隔</string>
+    <string name="tab_history">历史</string>
+    <string name="tab_settings">设置</string>
+    <string name="history_title">历史</string>
+    <string name="history_week">本周：已停止 %1$d · 错过 %2$d</string>
+    <string name="history_empty">这里还没有内容。闹钟响起后会显示在这里。</string>
+    <string name="result_stopped">已停止</string>
+    <string name="result_snoozed">已推迟</string>
+    <string name="result_missed">已错过</string>
+    <string name="result_ringing">响铃中</string>
+    <string name="history_clear">清除历史</string>
+    <string name="history_clear_body">所有记录将被删除，你的闹钟不受影响。</string>
+    <string name="settings_title">设置</string>
+    <string name="my_categories">我的分类</string>
+    <string name="my_categories_empty">你还没有创建任何分类。可以为任何需要的事物创建：宠物、药物、课程……</string>
+    <string name="delete_category_title">删除分类？</string>
+    <string name="delete_category_body">使用 %1$s 的闹钟将回到“通用”。</string>
+    <string name="backup_title">备份</string>
+    <string name="backup_body">将你的闹钟、模板、分类、秒表和自己的音频文件保存到一个文件中，或从文件中恢复。</string>
+    <string name="backup_export">导出</string>
+    <string name="backup_import">恢复</string>
+    <string name="backup_done">备份已保存（%1$d 个闹钟）</string>
+    <string name="backup_failed">无法保存备份</string>
+    <string name="restore_title">恢复备份？</string>
+    <string name="restore_body">这将替换应用中当前的所有内容（闹钟、模板、分类和秒表）。</string>
+    <string name="restore_done">已恢复 %1$d 个闹钟</string>
+    <string name="restore_failed">无法恢复该文件</string>
+    <string name="tab_sleep">睡眠</string>
+    <string name="sleep_title">睡眠</string>
+    <string name="sleep_awake">为你记录的睡眠</string>
+    <string name="sleep_add_manual">手动添加一晚</string>
+    <string name="sleep_month">月</string>
+    <string name="sleep_year">年</string>
+    <string name="sleep_total">总计</string>
+    <string name="sleep_hours_per_night">每晚小时数</string>
+    <string name="sleep_goal_hint">虚线 = %1$d 小时目标</string>
+    <string name="sleep_nights">夜晚数</string>
+    <string name="sleep_avg_per_month">月平均</string>
+    <string name="sleep_nights_n">%1$d 晚</string>
+    <string name="sleep_all_time">累计</string>
+    <string name="sleep_total_hours">总睡眠时长</string>
+    <string name="sleep_longest">最长的一晚</string>
+    <string name="sleep_shortest">最短的一晚</string>
+    <string name="sleep_per_year">年平均</string>
+    <string name="sleep_empty">此期间还没有睡眠记录。</string>
+    <string name="sleep_avg">平均</string>
+    <string name="sleep_avg_bed">平均入睡时间</string>
+    <string name="sleep_avg_wake">平均起床时间</string>
+    <string name="sleep_avg_quality">平均评分</string>
+    <string name="sleep_wake_day">起床日期</string>
+    <string name="sleep_fell_asleep">入睡时间</string>
+    <string name="sleep_woke_up">起床时间</string>
+    <string name="cal_title">从日历导入</string>
+    <string name="cal_body">把手机日历中即将到来的事件变成闹钟。仅读取，数据不会离开你的手机。</string>
+    <string name="cal_button">选择事件</string>
+    <string name="cal_denied">读取事件需要日历权限，你可以在手机设置中允许。</string>
+    <string name="cal_loading">正在加载事件…</string>
+    <string name="cal_empty">此期间没有事件。</string>
+    <string name="cal_remind">提醒我</string>
+    <string name="cal_on_time">开始时</string>
+    <string name="cal_before">提前 %1$d 分钟</string>
+    <string name="cal_create">创建 %1$d 个</string>
+    <string name="cal_created">已创建 %1$d 个闹钟</string>
+    <string name="cal_range">向后查看</string>
+    <string name="cal_days">%1$d 天</string>
+    <string name="cal_one_year">1 年</string>
+    <string name="channel_sleep">检测到睡眠</string>
+    <string name="sleep_notif_title">我记录了你的睡眠 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">检测到 %1$d 个新的夜晚</string>
+    <string name="sleep_notif_hint">点按查看，如果时间有误可以修正。</string>
+    <string name="sleep_auto_title">自动检测</string>
+    <string name="sleep_auto_body">通过查看夜间手机屏幕连续熄灭了几个小时来判断你何时入睡。数据不会离开你的手机。</string>
+    <string name="sleep_auto_unsupported">自动检测需要 Android 9 或更高版本。你仍可手动添加睡眠。</string>
+    <string name="sleep_auto_need_access">请在 Android 设置中为 Buhito 开启“使用情况访问权限”，这样它才能知道屏幕何时熄灭。</string>
+    <string name="sleep_auto_grant">打开设置</string>
+    <string name="sleep_detect_now">立即检测</string>
+    <string name="sleep_adjust">调整</string>
+    <string name="sleep_hide_adjust">收起</string>
+    <string name="sleep_adj_min">计入的最短睡眠时长</string>
+    <string name="sleep_adj_delay">屏幕熄灭后我需要这么久才能入睡</string>
+    <string name="sleep_adj_from">睡眠最早可从几点开始</string>
+    <string name="sleep_adj_check">每天早上检查并通知我的时间</string>
+    <string name="sleep_detected_n">检测到 %1$d 个新的夜晚</string>
+    <string name="sleep_detected_none">没有新的可记录内容</string>
+    <string name="sleep_auto_hint">🤖 = 自动检测。点按某一晚可修正时间或评分。</string>
+    <string name="qr_stop_title">扫描二维码停止</string>
+    <string name="qr_stop_hint">关闭闹钟必须扫描你的 Buhito 二维码。请把它放在离床远的地方。</string>
+    <string name="qr_scan_button">扫描二维码停止</string>
+    <string name="qr_scan_prompt">将相机对准你的 Buhito 二维码</string>
+    <string name="qr_wrong">这不是你的 Buhito 二维码，请重试。</string>
+    <string name="qr_camera_needed">使用二维码停止闹钟需要相机权限</string>
+    <string name="qr_settings_title">二维码</string>
+    <string name="qr_settings_body">用于关闭闹钟的专属二维码。保存图片并打印，或在另一块屏幕上显示。如果相机不可用，闹钟会改用长按停止。</string>
+    <string name="qr_save">保存图片</string>
+    <string name="qr_saved">二维码图片已保存</string>
+    <string name="qr_new">新二维码</string>
+    <string name="qr_new_title">生成新的二维码？</string>
+    <string name="qr_new_body">旧二维码将失效。请保存并打印新的二维码。</string>
+    <string name="lang_title">语言</string>
+    <string name="lang_body">选择应用的语言。</string>
+    <string name="ob_replay">重新观看引导</string>
+    <string name="ob_skip">跳过</string>
+    <string name="ob_next">下一步</string>
+    <string name="ob_start">开始吧！</string>
+    <string name="ob_1">呜！欢迎！我是 Buhito，你的守夜猫头鹰 🦉 我来带你熟悉一下。首先，请选择语言。</string>
+    <string name="ob_2">这是一款闹钟应用。点按 ＋ 创建闹钟：选择时间、日期和名称。</string>
+    <string name="ob_3">打造专属闹钟：使用系统铃声、你自己的音频，甚至你的声音。还可以添加分类、响铃序列，或让手机朗读名称。</string>
+    <string name="ob_4">要停止闹钟，可以长按按钮两秒，或扫描你的 Buhito 二维码。请在“设置”中保存并打印它。</string>
+    <string name="ob_5">为了让闹钟在锁屏上响起，请允许通知、闹钟和全屏提醒。如果缺少权限，我会提醒你。</string>
+    <string name="ob_6">除了闹钟，我还会自动记录你的睡眠 🌙，我的朋友小猫会帮你给秒表计时 🐱</string>
+    <string name="ob_7">就这些！准备好创建你的第一个闹钟了吗？</string>
+    <string name="qr_strict_title">严格模式</string>
+    <string name="qr_strict_hint">带二维码的闹钟只能通过扫描关闭：没有稍后提醒，也没有其他按钮。请确保二维码已打印或随手可取。</string>
+</resources>

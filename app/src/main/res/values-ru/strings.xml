@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">Следующий будильник через %1$s</string>
+    <string name="no_upcoming">Нет ближайших будильников</string>
+    <string name="new_alarm">Новый будильник</string>
+    <string name="empty_title">Пока всё тихо</string>
+    <string name="empty_body">Нажмите на кнопку, чтобы создать первый будильник со своим звуком.</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="delete_title">Удалить будильник?</string>
+    <string name="delete_body">Это нельзя отменить.</string>
+    <string name="perm_fix">Настроить</string>
+    <string name="perm_exact_title">Разрешить будильники и напоминания</string>
+    <string name="perm_exact_body">Нужно, чтобы будильники звонили точно вовремя.</string>
+    <string name="perm_notif_title">Разрешить уведомления</string>
+    <string name="perm_notif_body">Без них будильник не сможет появиться на экране блокировки.</string>
+    <string name="perm_fsi_title">Разрешить полноэкранные уведомления</string>
+    <string name="perm_fsi_body">Нужно, чтобы будильник открывался поверх экрана блокировки.</string>
+    <string name="perm_batt_title">Без ограничений батареи</string>
+    <string name="perm_batt_body">Рекомендуется, чтобы система не усыпляла приложение.</string>
+    <string name="edit_alarm">Изменить будильник</string>
+    <string name="back">Назад</string>
+    <string name="pick_date">Выбрать дату</string>
+    <string name="rings_summary">%1$s · через %2$s</string>
+    <string name="label_field">Название</string>
+    <string name="label_hint">например, Учёба</string>
+    <string name="sound_title">Звук</string>
+    <string name="sound_system">Системная мелодия</string>
+    <string name="sound_file">Ваше аудио</string>
+    <string name="choose_tone">Системные мелодии</string>
+    <string name="choose_file">Аудио с телефона</string>
+    <string name="default_alarm_tone">Будильник по умолчанию</string>
+    <string name="tones_title">Системные мелодии</string>
+    <string name="done">Готово</string>
+    <string name="preview">Прослушать</string>
+    <string name="duration_title">Длительность будильника</string>
+    <string name="duration_hint">Звук (если повторяется) и экран будильника длятся столько</string>
+    <string name="vibration">Вибрация</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="audio_import_failed">Не удалось загрузить это аудио</string>
+    <string name="alarm_default_title">Будильник</string>
+    <string name="stop">Стоп</string>
+    <string name="snooze">Отложить</string>
+    <string name="snooze_n">Отложить на %1$d мин</string>
+    <string name="minutes_short">%1$d мин</string>
+    <string name="snoozed_toast">Отложено на %1$d мин</string>
+    <string name="channel_alarm">Будильники</string>
+    <string name="channel_alarm_desc">Будильники, которые звонят прямо сейчас</string>
+    <string name="channel_missed">Пропущенные будильники</string>
+    <string name="missed_text">Я ждал вас в %1$s, но уснул 💤</string>
+    <string name="dur_days_hours">%1$d д %2$d ч</string>
+    <string name="dur_hours_minutes">%1$d ч %2$d мин</string>
+    <string name="dur_minutes">%1$d мин</string>
+    <string name="dur_seconds">%1$d с</string>
+    <string name="dur_min_sec">%1$d мин %2$d с</string>
+    <string name="category_title">Категория</string>
+    <string name="cat_general">Общее</string>
+    <string name="cat_study">Учёба</string>
+    <string name="cat_gym">Спорт</string>
+    <string name="cat_work">Работа</string>
+    <string name="cat_health">Здоровье</string>
+    <string name="cat_personal">Личное</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_active">Активные</string>
+    <string name="filter_paused">На паузе</string>
+    <string name="no_matches">Здесь пусто</string>
+    <string name="repeat_title">Повтор</string>
+    <string name="repeat_once">Один раз</string>
+    <string name="every_day">Каждый день</string>
+    <string name="weekdays">По будням</string>
+    <string name="weekends">По выходным</string>
+    <string name="volume_title">Громкость</string>
+    <string name="loop_title">Повторять звук</string>
+    <string name="loop_hint">Выключено: звук играет один раз, но экран будильника остаётся всё время</string>
+    <string name="record_voice">Записать голос</string>
+    <string name="recorder_title">Голосовое сообщение</string>
+    <string name="record_tap">Нажмите для записи</string>
+    <string name="recording">Запись…</string>
+    <string name="record_again">Записать снова</string>
+    <string name="use_recording">Использовать</string>
+    <string name="mic_denied">Для записи нужно разрешение на микрофон</string>
+    <string name="record_failed">Не удалось записать. Попробуйте ещё раз.</string>
+    <string name="voice_note_name">Голосовая заметка %1$s</string>
+    <string name="templates_title">Шаблоны</string>
+    <string name="template_hint">Нажмите, чтобы использовать · удерживайте, чтобы удалить</string>
+    <string name="save_template">Сохранить как шаблон</string>
+    <string name="template_name">Название шаблона</string>
+    <string name="template_saved">Шаблон сохранён</string>
+    <string name="delete_template_title">Удалить шаблон?</string>
+    <string name="saved_title">Будильник готов!</string>
+    <string name="saved_body">Прозвонит через %1$s</string>
+    <string name="greet_morning">Доброе утро! ☀️</string>
+    <string name="greet_afternoon">Добрый день!</string>
+    <string name="greet_evening">Добрый вечер!</string>
+    <string name="greet_night">Ещё не спите? Я на страже 🌙</string>
+    <string-array name="owl_lines">
+        <item>Угу! Я несу ночную вахту.</item>
+        <item>Я никогда не пропускаю будильник. Никогда.</item>
+        <item>Совет: запишите свой голос. Его гораздо труднее игнорировать.</item>
+        <item>Угу-угу… кто-то сказал «отложить»?</item>
+        <item>Погладьте кота. Осторожно. Он спит.</item>
+        <item>Жаворонок или сова… все совы хороши.</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>Мяу.</item>
+        <item>Ещё пять минуточек…</item>
+        <item>Мур-р-р</item>
+        <item>Zzz… о. Привет.</item>
+        <item>Покорми меня. Или нет. Zzz.</item>
+    </string-array>
+    <string name="notif_wake_up">Угу-угу! Пора вставать 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>Угу-угу! Пора вставать 🦉</item>
+        <item>Я не спал всю ночь только ради этого.</item>
+        <item>Псс… вас зовёт будильник.</item>
+        <item>Я машу крыльями ради вас!</item>
+        <item>Вставайте! День уже ждёт.</item>
+    </string-array>
+    <string name="tab_alarms">Будильники</string>
+    <string name="tab_stopwatch">Секундомер</string>
+    <string name="sw_title">Секундомеры</string>
+    <string name="sw_running_n">Идёт: %1$d</string>
+    <string name="sw_all_paused">Все на паузе</string>
+    <string name="sw_new">Новый секундомер</string>
+    <string name="sw_name_hint">Название</string>
+    <string name="sw_default_name">Секундомер %1$d</string>
+    <string name="sw_start">Старт</string>
+    <string name="sw_pause">Пауза</string>
+    <string name="sw_resume">Продолжить</string>
+    <string name="sw_lap">Круг</string>
+    <string name="sw_reset">Сброс</string>
+    <string name="sw_running">Идёт</string>
+    <string name="sw_paused">На паузе</string>
+    <string name="sw_lap_n">Круг %1$d</string>
+    <string name="sw_more_laps">+%1$d предыдущих кругов</string>
+    <string name="sw_empty_title">Секундомеров пока нет</string>
+    <string name="sw_empty_body">Создайте секундомер для тренировок, учёбы или чего угодно. Они продолжают считать, даже если закрыть приложение.</string>
+    <string name="sw_delete_title">Удалить секундомер?</string>
+    <string-array name="sw_cat_lines">
+        <item>Я слежу за часами вместо вас!</item>
+        <item>Тик-так, тик-так…</item>
+        <item>Давай, давай! 🐾</item>
+        <item>Я мог бы гоняться за этой стрелкой весь день.</item>
+        <item>Мурфектное время!</item>
+    </string-array>
+    <string name="open_alarm">Открыть</string>
+    <string name="hold_to_stop">Удерживайте, чтобы остановить</string>
+    <string name="stop_all_chain">Остановить всю серию</string>
+    <plurals name="chain_remaining">
+        <item quantity="one">Остался %1$d звонок</item>
+        <item quantity="few">Осталось %1$d звонка</item>
+        <item quantity="many">Осталось %1$d звонков</item>
+        <item quantity="other">Осталось %1$d звонка</item>
+    </plurals>
+    <string name="new_category">Новая категория</string>
+    <string name="category_name">Название категории</string>
+    <string name="more_options">Ещё параметры</string>
+    <string name="confirm_stop_title">Удерживать для остановки</string>
+    <string name="confirm_stop_hint">Кнопку нужно удерживать 2 секунды, чтобы не выключить будильник спросонья</string>
+    <string name="speak_label_title">Читать название вслух</string>
+    <string name="speak_label_hint">Телефон произносит название во время звонка</string>
+    <string name="chain_title">Серия</string>
+    <string name="chain_hint">Дополнительные звонки после первого</string>
+    <string name="chain_off">Выкл.</string>
+    <string name="chain_every">Каждые</string>
+    <string name="tab_history">История</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="history_title">История</string>
+    <string name="history_week">На этой неделе: остановлено %1$d · пропущено %2$d</string>
+    <string name="history_empty">Пока пусто. Когда зазвонит будильник, он появится здесь.</string>
+    <string name="result_stopped">Остановлен</string>
+    <string name="result_snoozed">Отложен</string>
+    <string name="result_missed">Пропущен</string>
+    <string name="result_ringing">Звонит</string>
+    <string name="history_clear">Очистить историю</string>
+    <string name="history_clear_body">Все записи будут удалены. Ваши будильники не затрагиваются.</string>
+    <string name="settings_title">Настройки</string>
+    <string name="my_categories">Мои категории</string>
+    <string name="my_categories_empty">Вы ещё не создали ни одной. Создайте для чего угодно: Питомцы, Лекарства, Занятия…</string>
+    <string name="delete_category_title">Удалить категорию?</string>
+    <string name="delete_category_body">Будильники с категорией %1$s вернутся в «Общее».</string>
+    <string name="backup_title">Резервная копия</string>
+    <string name="backup_body">Сохраните будильники, шаблоны, категории, секундомеры и свои аудиофайлы в один файл или восстановите их из него.</string>
+    <string name="backup_export">Экспорт</string>
+    <string name="backup_import">Восстановить</string>
+    <string name="backup_done">Копия сохранена (будильников: %1$d)</string>
+    <string name="backup_failed">Не удалось сохранить копию</string>
+    <string name="restore_title">Восстановить копию?</string>
+    <string name="restore_body">Всё, что сейчас есть в приложении (будильники, шаблоны, категории и секундомеры), будет заменено.</string>
+    <string name="restore_done">Восстановлено будильников: %1$d</string>
+    <string name="restore_failed">Не удалось восстановить этот файл</string>
+    <string name="tab_sleep">Сон</string>
+    <string name="sleep_title">Сон</string>
+    <string name="sleep_awake">Ваш сон, записанный за вас</string>
+    <string name="sleep_add_manual">Добавить ночь вручную</string>
+    <string name="sleep_month">Месяц</string>
+    <string name="sleep_year">Год</string>
+    <string name="sleep_total">Всего</string>
+    <string name="sleep_hours_per_night">Часов за ночь</string>
+    <string name="sleep_goal_hint">Пунктир = цель %1$d ч</string>
+    <string name="sleep_nights">Ночи</string>
+    <string name="sleep_avg_per_month">В среднем за месяц</string>
+    <string name="sleep_nights_n">Ночей: %1$d</string>
+    <string name="sleep_all_time">За всё время</string>
+    <string name="sleep_total_hours">Всего сна</string>
+    <string name="sleep_longest">Самая долгая ночь</string>
+    <string name="sleep_shortest">Самая короткая ночь</string>
+    <string name="sleep_per_year">В среднем за год</string>
+    <string name="sleep_empty">За этот период ночей пока нет.</string>
+    <string name="sleep_avg">В среднем</string>
+    <string name="sleep_avg_bed">Ср. время отхода ко сну</string>
+    <string name="sleep_avg_wake">Ср. время пробуждения</string>
+    <string name="sleep_avg_quality">Ср. оценка</string>
+    <string name="sleep_wake_day">День пробуждения</string>
+    <string name="sleep_fell_asleep">Уснули в</string>
+    <string name="sleep_woke_up">Проснулись в</string>
+    <string name="cal_title">Импорт из календаря</string>
+    <string name="cal_body">Превратите ближайшие события календаря телефона в будильники. Приложение только читает; ничего не покидает ваш телефон.</string>
+    <string name="cal_button">Выбрать события</string>
+    <string name="cal_denied">Для чтения событий нужно разрешение на календарь. Его можно дать в настройках телефона.</string>
+    <string name="cal_loading">Загрузка событий…</string>
+    <string name="cal_empty">В этот период событий нет.</string>
+    <string name="cal_remind">Напомнить</string>
+    <string name="cal_on_time">В начале</string>
+    <string name="cal_before">За %1$d мин</string>
+    <string name="cal_create">Создать: %1$d</string>
+    <string name="cal_created">Создано будильников: %1$d</string>
+    <string name="cal_range">Заглянуть вперёд</string>
+    <string name="cal_days">%1$d дн.</string>
+    <string name="cal_one_year">1 год</string>
+    <string name="channel_sleep">Сон обнаружен</string>
+    <string name="sleep_notif_title">Я записал ваш сон 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">Обнаружено новых ночей: %1$d</string>
+    <string name="sleep_notif_hint">Нажмите, чтобы проверить и поправить время, если оно неточное.</string>
+    <string name="sleep_auto_title">Автоматическое определение</string>
+    <string name="sleep_auto_body">Определяет, когда вы спали, по тому, как долго ночью был выключен экран телефона. Ничего не покидает ваш телефон.</string>
+    <string name="sleep_auto_unsupported">Для автоматического определения нужен Android 9 или новее. Ночи можно добавлять вручную.</string>
+    <string name="sleep_auto_need_access">Разрешите Buhito «Доступ к данным об использовании» в настройках Android, чтобы он видел, когда экран был выключен.</string>
+    <string name="sleep_auto_grant">Открыть настройки</string>
+    <string name="sleep_detect_now">Определить сейчас</string>
+    <string name="sleep_adjust">Настроить</string>
+    <string name="sleep_hide_adjust">Скрыть</string>
+    <string name="sleep_adj_min">Минимум сна для учёта</string>
+    <string name="sleep_adj_delay">Столько я засыпаю после выключения экрана</string>
+    <string name="sleep_adj_from">Сон может начинаться с</string>
+    <string name="sleep_adj_check">Проверять и уведомлять каждое утро в</string>
+    <string name="sleep_detected_n">Обнаружено новых ночей: %1$d</string>
+    <string name="sleep_detected_none">Новых записей нет</string>
+    <string name="sleep_auto_hint">🤖 = определено автоматически. Нажмите на ночь, чтобы поправить время или поставить оценку.</string>
+    <string name="qr_stop_title">Сканировать QR для остановки</string>
+    <string name="qr_stop_hint">Чтобы выключить будильник, нужно отсканировать ваш QR-код Buhito. Держите его подальше от кровати.</string>
+    <string name="qr_scan_button">Сканировать QR для остановки</string>
+    <string name="qr_scan_prompt">Наведите камеру на ваш QR Buhito</string>
+    <string name="qr_wrong">Это не ваш код Buhito. Попробуйте ещё раз.</string>
+    <string name="qr_camera_needed">Для остановки будильника по QR нужно разрешение на камеру</string>
+    <string name="qr_settings_title">QR-код</string>
+    <string name="qr_settings_body">Ваш личный код для выключения будильников. Сохраните изображение и распечатайте его или покажите на другом экране. Если камера недоступна, будильник переходит на удержание кнопки.</string>
+    <string name="qr_save">Сохранить изображение</string>
+    <string name="qr_saved">Изображение QR сохранено</string>
+    <string name="qr_new">Новый код</string>
+    <string name="qr_new_title">Создать новый код?</string>
+    <string name="qr_new_body">Старый код перестанет работать. Сохраните и распечатайте новый.</string>
+    <string name="lang_title">Язык</string>
+    <string name="lang_body">Выберите язык приложения.</string>
+    <string name="ob_replay">Пройти обучение снова</string>
+    <string name="ob_skip">Пропустить</string>
+    <string name="ob_next">Далее</string>
+    <string name="ob_start">Поехали!</string>
+    <string name="ob_1">Угу! Добро пожаловать! Я Buhito, ваша сова на ночной вахте 🦉 Сейчас всё покажу. Сначала выберите язык.</string>
+    <string name="ob_2">Это приложение с будильниками. Нажмите ＋, чтобы создать будильник: выберите время, дни и название.</string>
+    <string name="ob_3">Настройте под себя: системная мелодия, своё аудио или даже ваш голос. Добавьте категорию, серию звонков или пусть телефон читает название вслух.</string>
+    <string name="ob_4">Чтобы остановить будильник, удерживайте кнопку две секунды или отсканируйте свой QR-код Buhito. Сохраните и распечатайте его в Настройках.</string>
+    <string name="ob_5">Чтобы будильники звонили на экране блокировки, разрешите уведомления, будильники и полноэкранные уведомления. Я напомню, если чего-то не хватает.</string>
+    <string name="ob_6">Кроме будильников, я автоматически записываю ваш сон 🌙, а мой друг кот ведёт ваши секундомеры 🐱</string>
+    <string name="ob_7">Вот и всё! Создадим ваш первый будильник?</string>
+    <string name="qr_strict_title">Строгий режим</string>
+    <string name="qr_strict_hint">Будильники с QR выключаются только сканированием: без отложить и других кнопок. Держите QR распечатанным или под рукой.</string>
+</resources>

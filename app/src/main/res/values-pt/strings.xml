@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">Próximo alarme em %1$s</string>
+    <string name="no_upcoming">Nenhum alarme próximo</string>
+    <string name="new_alarm">Novo alarme</string>
+    <string name="empty_title">Tudo calmo por aqui</string>
+    <string name="empty_body">Toque no botão para criar seu primeiro alarme com o seu próprio som.</string>
+    <string name="today">Hoje</string>
+    <string name="tomorrow">Amanhã</string>
+    <string name="delete_title">Excluir alarme?</string>
+    <string name="delete_body">Isso não pode ser desfeito.</string>
+    <string name="perm_fix">Configurar</string>
+    <string name="perm_exact_title">Permitir alarmes e lembretes</string>
+    <string name="perm_exact_body">Necessário para os alarmes tocarem na hora exata.</string>
+    <string name="perm_notif_title">Permitir notificações</string>
+    <string name="perm_notif_body">Sem elas o alarme não aparece na tela de bloqueio.</string>
+    <string name="perm_fsi_title">Permitir alertas em tela cheia</string>
+    <string name="perm_fsi_body">Necessário para o alarme abrir sobre a tela de bloqueio.</string>
+    <string name="perm_batt_title">Bateria sem restrições</string>
+    <string name="perm_batt_body">Recomendado para o sistema não suspender o app.</string>
+    <string name="edit_alarm">Editar alarme</string>
+    <string name="back">Voltar</string>
+    <string name="pick_date">Escolher data</string>
+    <string name="rings_summary">%1$s · em %2$s</string>
+    <string name="label_field">Nome</string>
+    <string name="label_hint">ex.: Hora de estudar</string>
+    <string name="sound_title">Som</string>
+    <string name="sound_system">Toque do sistema</string>
+    <string name="sound_file">Seu áudio</string>
+    <string name="choose_tone">Toques do sistema</string>
+    <string name="choose_file">Áudio do celular</string>
+    <string name="default_alarm_tone">Alarme padrão</string>
+    <string name="tones_title">Toques do sistema</string>
+    <string name="done">Pronto</string>
+    <string name="preview">Ouvir</string>
+    <string name="duration_title">Duração do alarme</string>
+    <string name="duration_hint">O som (se repetir) e a tela do alarme duram esse tempo</string>
+    <string name="vibration">Vibração</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="audio_import_failed">Não foi possível carregar esse áudio</string>
+    <string name="alarm_default_title">Alarme</string>
+    <string name="stop">Parar</string>
+    <string name="snooze">Soneca</string>
+    <string name="snooze_n">Soneca de %1$d min</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="snoozed_toast">Soneca de %1$d min</string>
+    <string name="channel_alarm">Alarmes</string>
+    <string name="channel_alarm_desc">Alarmes que estão tocando agora</string>
+    <string name="channel_missed">Alarmes sem resposta</string>
+    <string name="missed_text">Esperei por você às %1$s, mas acabei dormindo 💤</string>
+    <string name="dur_days_hours">%1$dd %2$dh</string>
+    <string name="dur_hours_minutes">%1$dh %2$dmin</string>
+    <string name="dur_minutes">%1$d min</string>
+    <string name="dur_seconds">%1$d s</string>
+    <string name="dur_min_sec">%1$d min %2$d s</string>
+    <string name="category_title">Categoria</string>
+    <string name="cat_general">Geral</string>
+    <string name="cat_study">Estudo</string>
+    <string name="cat_gym">Academia</string>
+    <string name="cat_work">Trabalho</string>
+    <string name="cat_health">Saúde</string>
+    <string name="cat_personal">Pessoal</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_active">Ativos</string>
+    <string name="filter_paused">Pausados</string>
+    <string name="no_matches">Nada por aqui</string>
+    <string name="repeat_title">Repetir</string>
+    <string name="repeat_once">Uma vez</string>
+    <string name="every_day">Todos os dias</string>
+    <string name="weekdays">Dias úteis</string>
+    <string name="weekends">Fins de semana</string>
+    <string name="volume_title">Volume</string>
+    <string name="loop_title">Repetir o som</string>
+    <string name="loop_hint">Desligado: o som toca uma vez, mas a tela do alarme continua durante toda a duração</string>
+    <string name="record_voice">Gravar voz</string>
+    <string name="recorder_title">Mensagem de voz</string>
+    <string name="record_tap">Toque para gravar</string>
+    <string name="recording">Gravando…</string>
+    <string name="record_again">Gravar de novo</string>
+    <string name="use_recording">Usar esta</string>
+    <string name="mic_denied">É preciso permissão do microfone para gravar</string>
+    <string name="record_failed">Não foi possível gravar. Tente de novo.</string>
+    <string name="voice_note_name">Nota de voz %1$s</string>
+    <string name="templates_title">Modelos</string>
+    <string name="template_hint">Toque para usar · segure para excluir</string>
+    <string name="save_template">Salvar como modelo</string>
+    <string name="template_name">Nome do modelo</string>
+    <string name="template_saved">Modelo salvo</string>
+    <string name="delete_template_title">Excluir modelo?</string>
+    <string name="saved_title">Alarme pronto!</string>
+    <string name="saved_body">Toca em %1$s</string>
+    <string name="greet_morning">Bom dia! ☀️</string>
+    <string name="greet_afternoon">Boa tarde!</string>
+    <string name="greet_evening">Boa noite!</string>
+    <string name="greet_night">Ainda acordado? Estou de vigia 🌙</string>
+    <string-array name="owl_lines">
+        <item>Hoo! Estou de vigia noturna.</item>
+        <item>Eu nunca perco um alarme. Nunca.</item>
+        <item>Dica: grave sua própria voz. É muito mais difícil ignorar.</item>
+        <item>Hoot hoot… alguém falou em soneca?</item>
+        <item>Faça carinho no gato. Com delicadeza. Ele está dormindo.</item>
+        <item>Coruja madrugadora ou noturna… toda coruja é boa coruja.</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>Miau.</item>
+        <item>Mais cinco minutinhos…</item>
+        <item>Purrrr</item>
+        <item>Zzz… ah. Oi.</item>
+        <item>Me dá comida. Ou não. Zzz.</item>
+    </string-array>
+    <string name="notif_wake_up">Hoo hoo! Hora de acordar 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>Hoo hoo! Hora de acordar 🦉</item>
+        <item>Passei a noite em claro só por isso.</item>
+        <item>Psst… seu alarme está te chamando.</item>
+        <item>Estou batendo as asas por você!</item>
+        <item>De pé, de pé! O dia está esperando.</item>
+    </string-array>
+    <string name="tab_alarms">Alarmes</string>
+    <string name="tab_stopwatch">Cronômetro</string>
+    <string name="sw_title">Cronômetros</string>
+    <string name="sw_running_n">%1$d em andamento</string>
+    <string name="sw_all_paused">Todos pausados</string>
+    <string name="sw_new">Novo cronômetro</string>
+    <string name="sw_name_hint">Nome</string>
+    <string name="sw_default_name">Cronômetro %1$d</string>
+    <string name="sw_start">Iniciar</string>
+    <string name="sw_pause">Pausar</string>
+    <string name="sw_resume">Continuar</string>
+    <string name="sw_lap">Volta</string>
+    <string name="sw_reset">Zerar</string>
+    <string name="sw_running">Em andamento</string>
+    <string name="sw_paused">Pausado</string>
+    <string name="sw_lap_n">Volta %1$d</string>
+    <string name="sw_more_laps">+%1$d voltas anteriores</string>
+    <string name="sw_empty_title">Nenhum cronômetro ainda</string>
+    <string name="sw_empty_body">Crie um para cronometrar treinos, estudos ou o que quiser. Eles continuam contando mesmo se você fechar o app.</string>
+    <string name="sw_delete_title">Excluir cronômetro?</string>
+    <string-array name="sw_cat_lines">
+        <item>Estou de olho no relógio por você!</item>
+        <item>Tique-taque, tique-taque…</item>
+        <item>Vai, vai, vai! 🐾</item>
+        <item>Eu ficaria perseguindo esse ponteiro o dia todo.</item>
+        <item>Tempo purrfeito!</item>
+    </string-array>
+    <string name="open_alarm">Abrir</string>
+    <string name="hold_to_stop">Segure para parar</string>
+    <string name="stop_all_chain">Parar toda a sequência</string>
+    <plurals name="chain_remaining">
+        <item quantity="one">Falta %1$d toque</item>
+        <item quantity="other">Faltam %1$d toques</item>
+    </plurals>
+    <string name="new_category">Nova categoria</string>
+    <string name="category_name">Nome da categoria</string>
+    <string name="more_options">Mais opções</string>
+    <string name="confirm_stop_title">Segurar para parar</string>
+    <string name="confirm_stop_hint">É preciso segurar o botão por 2 segundos, para não desligar meio dormindo</string>
+    <string name="speak_label_title">Ler o nome em voz alta</string>
+    <string name="speak_label_hint">O celular diz o nome enquanto toca</string>
+    <string name="chain_title">Sequência</string>
+    <string name="chain_hint">Toques extras depois do primeiro</string>
+    <string name="chain_off">Desligada</string>
+    <string name="chain_every">A cada</string>
+    <string name="tab_history">Histórico</string>
+    <string name="tab_settings">Ajustes</string>
+    <string name="history_title">Histórico</string>
+    <string name="history_week">Esta semana: %1$d paradas · %2$d perdidas</string>
+    <string name="history_empty">Nada por aqui ainda. Quando um alarme tocar, ele aparecerá aqui.</string>
+    <string name="result_stopped">Parado</string>
+    <string name="result_snoozed">Adiado</string>
+    <string name="result_missed">Perdido</string>
+    <string name="result_ringing">Tocando</string>
+    <string name="history_clear">Limpar histórico</string>
+    <string name="history_clear_body">Todos os registros serão removidos. Seus alarmes não são afetados.</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="my_categories">Minhas categorias</string>
+    <string name="my_categories_empty">Você ainda não criou nenhuma. Crie uma para o que precisar: Pets, Remédios, Aula…</string>
+    <string name="delete_category_title">Excluir categoria?</string>
+    <string name="delete_category_body">Os alarmes que usam %1$s voltarão para Geral.</string>
+    <string name="backup_title">Backup</string>
+    <string name="backup_body">Salve seus alarmes, modelos, categorias, cronômetros e seus áudios em um único arquivo, ou restaure a partir de um.</string>
+    <string name="backup_export">Exportar</string>
+    <string name="backup_import">Restaurar</string>
+    <string name="backup_done">Backup salvo (%1$d alarmes)</string>
+    <string name="backup_failed">Não foi possível salvar o backup</string>
+    <string name="restore_title">Restaurar backup?</string>
+    <string name="restore_body">Isso substitui tudo o que está no app agora (alarmes, modelos, categorias e cronômetros).</string>
+    <string name="restore_done">%1$d alarmes restaurados</string>
+    <string name="restore_failed">Não foi possível restaurar esse arquivo</string>
+    <string name="tab_sleep">Sono</string>
+    <string name="sleep_title">Sono</string>
+    <string name="sleep_awake">Seu sono, registrado para você</string>
+    <string name="sleep_add_manual">Adicionar uma noite manualmente</string>
+    <string name="sleep_month">Mês</string>
+    <string name="sleep_year">Ano</string>
+    <string name="sleep_total">Total</string>
+    <string name="sleep_hours_per_night">Horas por noite</string>
+    <string name="sleep_goal_hint">Linha tracejada = meta de %1$d h</string>
+    <string name="sleep_nights">Noites</string>
+    <string name="sleep_avg_per_month">Média por mês</string>
+    <string name="sleep_nights_n">%1$d noites</string>
+    <string name="sleep_all_time">Total geral</string>
+    <string name="sleep_total_hours">Sono total</string>
+    <string name="sleep_longest">Noite mais longa</string>
+    <string name="sleep_shortest">Noite mais curta</string>
+    <string name="sleep_per_year">Média por ano</string>
+    <string name="sleep_empty">Nenhuma noite registrada neste período.</string>
+    <string name="sleep_avg">Média</string>
+    <string name="sleep_avg_bed">Hora média de dormir</string>
+    <string name="sleep_avg_wake">Hora média de acordar</string>
+    <string name="sleep_avg_quality">Nota média</string>
+    <string name="sleep_wake_day">Dia em que acordou</string>
+    <string name="sleep_fell_asleep">Dormiu às</string>
+    <string name="sleep_woke_up">Acordou às</string>
+    <string name="cal_title">Importar do calendário</string>
+    <string name="cal_body">Transforme os próximos eventos do calendário do celular em alarmes. Ele só lê; nada sai do seu celular.</string>
+    <string name="cal_button">Escolher eventos</string>
+    <string name="cal_denied">É preciso permissão de calendário para ler seus eventos. Você pode permitir nos ajustes do celular.</string>
+    <string name="cal_loading">Carregando eventos…</string>
+    <string name="cal_empty">Nenhum evento neste período.</string>
+    <string name="cal_remind">Avisar</string>
+    <string name="cal_on_time">No início</string>
+    <string name="cal_before">%1$d min antes</string>
+    <string name="cal_create">Criar %1$d</string>
+    <string name="cal_created">%1$d alarmes criados</string>
+    <string name="cal_range">Olhar adiante</string>
+    <string name="cal_days">%1$d dias</string>
+    <string name="cal_one_year">1 ano</string>
+    <string name="channel_sleep">Sono detectado</string>
+    <string name="sleep_notif_title">Registrei o seu sono 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">Detectei %1$d novas noites</string>
+    <string name="sleep_notif_hint">Toque para revisar e corrigir os horários se estiverem errados.</string>
+    <string name="sleep_auto_title">Detecção automática</string>
+    <string name="sleep_auto_body">Descobre quando você dormiu vendo quando a tela do celular ficou apagada por horas à noite. Nada sai do seu celular.</string>
+    <string name="sleep_auto_unsupported">A detecção automática precisa do Android 9 ou superior. Você ainda pode adicionar noites manualmente.</string>
+    <string name="sleep_auto_need_access">Permita o \"Acesso ao uso\" do Buhito nos ajustes do Android para ele ver quando a tela esteve apagada.</string>
+    <string name="sleep_auto_grant">Abrir ajustes</string>
+    <string name="sleep_detect_now">Detectar agora</string>
+    <string name="sleep_adjust">Ajustar</string>
+    <string name="sleep_hide_adjust">Ocultar</string>
+    <string name="sleep_adj_min">Sono mínimo para contar</string>
+    <string name="sleep_adj_delay">Demoro isso para dormir depois que a tela apaga</string>
+    <string name="sleep_adj_from">O sono pode começar a partir de</string>
+    <string name="sleep_adj_check">Verificar e me avisar toda manhã às</string>
+    <string name="sleep_detected_n">%1$d novas noites detectadas</string>
+    <string name="sleep_detected_none">Nada novo para registrar</string>
+    <string name="sleep_auto_hint">🤖 = detectado automaticamente. Toque em um para corrigir os horários ou dar uma nota.</string>
+    <string name="qr_stop_title">Escanear QR para parar</string>
+    <string name="qr_stop_hint">Para desligar, você precisa escanear o seu código QR do Buhito. Deixe-o longe da cama.</string>
+    <string name="qr_scan_button">Escanear QR para parar</string>
+    <string name="qr_scan_prompt">Aponte a câmera para o seu QR do Buhito</string>
+    <string name="qr_wrong">Esse não é o seu código do Buhito. Tente de novo.</string>
+    <string name="qr_camera_needed">É preciso permissão da câmera para parar alarmes com QR</string>
+    <string name="qr_settings_title">Código QR</string>
+    <string name="qr_settings_body">Seu código pessoal para desligar alarmes. Salve a imagem e imprima, ou mostre em outra tela. Se a câmera não estiver disponível, o alarme volta a segurar para parar.</string>
+    <string name="qr_save">Salvar imagem</string>
+    <string name="qr_saved">Imagem do QR salva</string>
+    <string name="qr_new">Novo código</string>
+    <string name="qr_new_title">Criar um novo código?</string>
+    <string name="qr_new_body">O código antigo deixará de funcionar. Salve e imprima o novo.</string>
+    <string name="lang_title">Idioma</string>
+    <string name="lang_body">Escolha o idioma do app.</string>
+    <string name="ob_replay">Ver o tutorial de novo</string>
+    <string name="ob_skip">Pular</string>
+    <string name="ob_next">Próximo</string>
+    <string name="ob_start">Vamos lá!</string>
+    <string name="ob_1">Hoo! Bem-vindo! Sou o Buhito, sua coruja de vigia noturna 🦉 Vou te mostrar como tudo funciona. Primeiro, escolha seu idioma.</string>
+    <string name="ob_2">Este é um app de alarmes. Toque em ＋ para criar um: escolha a hora, os dias e um nome.</string>
+    <string name="ob_3">Deixe do seu jeito: use um toque do sistema, seu próprio áudio ou até a sua voz. Adicione uma categoria, uma sequência de toques ou peça ao celular para ler o nome em voz alta.</string>
+    <string name="ob_4">Para parar um alarme, segure o botão por dois segundos ou escaneie o seu código QR do Buhito. Salve e imprima nos Ajustes.</string>
+    <string name="ob_5">Para os alarmes tocarem na tela de bloqueio, permita notificações, alarmes e alertas em tela cheia. Eu aviso se faltar algo.</string>
+    <string name="ob_6">Além de alarmes, registro seu sono automaticamente 🌙 e meu amigo gato cronometra seus cronômetros 🐱</string>
+    <string name="ob_7">É isso! Vamos criar o seu primeiro alarme?</string>
+    <string name="qr_strict_title">Modo estrito</string>
+    <string name="qr_strict_hint">Alarmes com QR só desligam escaneando-o: sem soneca nem outro botão. Deixe seu QR impresso ou à mão.</string>
+</resources>

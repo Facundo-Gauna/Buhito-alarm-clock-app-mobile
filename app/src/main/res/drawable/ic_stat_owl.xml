@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Silueta de búho (la barra de estado solo usa la forma, en blanco) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M4.5,2.5 L9,5.5 H15 L19.5,2.5 V12 C19.5,17.5 16.5,21.5 12,21.5 C7.5,21.5 4.5,17.5 4.5,12 Z M9,9 m-2.4,0 a2.4,2.4 0 1,0 4.8,0 a2.4,2.4 0 1,0 -4.8,0 M15,9 m-2.4,0 a2.4,2.4 0 1,0 4.8,0 a2.4,2.4 0 1,0 -4.8,0 M12,12 L10.6,14.4 H13.4 Z" />
+</vector>

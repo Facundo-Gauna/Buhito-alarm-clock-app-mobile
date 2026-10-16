@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buhito</string>
+    <string name="next_alarm_in">次のアラームまで %1$s</string>
+    <string name="no_upcoming">予定されているアラームはありません</string>
+    <string name="new_alarm">新しいアラーム</string>
+    <string name="empty_title">今は静かです</string>
+    <string name="empty_body">ボタンをタップして、好きな音で最初のアラームを作りましょう。</string>
+    <string name="today">今日</string>
+    <string name="tomorrow">明日</string>
+    <string name="delete_title">アラームを削除しますか？</string>
+    <string name="delete_body">この操作は取り消せません。</string>
+    <string name="perm_fix">設定する</string>
+    <string name="perm_exact_title">アラームとリマインダーを許可</string>
+    <string name="perm_exact_body">アラームを正確な時刻に鳴らすために必要です。</string>
+    <string name="perm_notif_title">通知を許可</string>
+    <string name="perm_notif_body">通知がないと、ロック画面にアラームを表示できません。</string>
+    <string name="perm_fsi_title">全画面通知を許可</string>
+    <string name="perm_fsi_body">ロック画面の上でアラームを開くために必要です。</string>
+    <string name="perm_batt_title">バッテリー制限なし</string>
+    <string name="perm_batt_body">システムがアプリをスリープさせないよう、推奨されます。</string>
+    <string name="edit_alarm">アラームを編集</string>
+    <string name="back">戻る</string>
+    <string name="pick_date">日付を選択</string>
+    <string name="rings_summary">%1$s · %2$s後</string>
+    <string name="label_field">名前</string>
+    <string name="label_hint">例：勉強の時間</string>
+    <string name="sound_title">サウンド</string>
+    <string name="sound_system">システム音</string>
+    <string name="sound_file">自分の音声</string>
+    <string name="choose_tone">システム音</string>
+    <string name="choose_file">端末の音声</string>
+    <string name="default_alarm_tone">デフォルトのアラーム</string>
+    <string name="tones_title">システム音</string>
+    <string name="done">完了</string>
+    <string name="preview">試聴</string>
+    <string name="duration_title">アラームの長さ</string>
+    <string name="duration_hint">音（繰り返す場合）とアラーム画面はこの時間続きます</string>
+    <string name="vibration">バイブレーション</string>
+    <string name="save">保存</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ok">OK</string>
+    <string name="audio_import_failed">この音声を読み込めませんでした</string>
+    <string name="alarm_default_title">アラーム</string>
+    <string name="stop">停止</string>
+    <string name="snooze">スヌーズ</string>
+    <string name="snooze_n">%1$d分スヌーズ</string>
+    <string name="minutes_short">%1$d分</string>
+    <string name="snoozed_toast">%1$d分スヌーズしました</string>
+    <string name="channel_alarm">アラーム</string>
+    <string name="channel_alarm_desc">今鳴っているアラーム</string>
+    <string name="channel_missed">気づかれなかったアラーム</string>
+    <string name="missed_text">%1$sに待っていたけど、寝ちゃった 💤</string>
+    <string name="dur_days_hours">%1$d日%2$d時間</string>
+    <string name="dur_hours_minutes">%1$d時間%2$d分</string>
+    <string name="dur_minutes">%1$d分</string>
+    <string name="dur_seconds">%1$d秒</string>
+    <string name="dur_min_sec">%1$d分%2$d秒</string>
+    <string name="category_title">カテゴリ</string>
+    <string name="cat_general">一般</string>
+    <string name="cat_study">勉強</string>
+    <string name="cat_gym">運動</string>
+    <string name="cat_work">仕事</string>
+    <string name="cat_health">健康</string>
+    <string name="cat_personal">個人</string>
+    <string name="filter_all">すべて</string>
+    <string name="filter_active">有効</string>
+    <string name="filter_paused">一時停止</string>
+    <string name="no_matches">ここには何もありません</string>
+    <string name="repeat_title">繰り返し</string>
+    <string name="repeat_once">1回のみ</string>
+    <string name="every_day">毎日</string>
+    <string name="weekdays">平日</string>
+    <string name="weekends">週末</string>
+    <string name="volume_title">音量</string>
+    <string name="loop_title">音を繰り返す</string>
+    <string name="loop_hint">オフ：音は1回だけ鳴りますが、アラーム画面は設定した時間ずっと表示されます</string>
+    <string name="record_voice">声を録音</string>
+    <string name="recorder_title">ボイスメッセージ</string>
+    <string name="record_tap">タップして録音</string>
+    <string name="recording">録音中…</string>
+    <string name="record_again">録音し直す</string>
+    <string name="use_recording">これを使う</string>
+    <string name="mic_denied">録音にはマイクの許可が必要です</string>
+    <string name="record_failed">録音できませんでした。もう一度お試しください。</string>
+    <string name="voice_note_name">ボイスメモ %1$s</string>
+    <string name="templates_title">テンプレート</string>
+    <string name="template_hint">タップで使用 · 長押しで削除</string>
+    <string name="save_template">テンプレートとして保存</string>
+    <string name="template_name">テンプレート名</string>
+    <string name="template_saved">テンプレートを保存しました</string>
+    <string name="delete_template_title">テンプレートを削除しますか？</string>
+    <string name="saved_title">アラームの準備完了！</string>
+    <string name="saved_body">%1$s後に鳴ります</string>
+    <string name="greet_morning">おはよう！☀️</string>
+    <string name="greet_afternoon">こんにちは！</string>
+    <string name="greet_evening">こんばんは！</string>
+    <string name="greet_night">まだ起きてるの？見張り番だよ 🌙</string>
+    <string-array name="owl_lines">
+        <item>ホー！夜の見張り番だよ。</item>
+        <item>アラームは絶対に逃さないよ。絶対に。</item>
+        <item>ヒント：自分の声を録音しよう。ずっと無視しにくくなるよ。</item>
+        <item>ホーホー…スヌーズって言った？</item>
+        <item>ネコをなでてあげて。そっとね。寝てるから。</item>
+        <item>朝型のフクロウも夜型のフクロウも…フクロウはみんないい子。</item>
+    </string-array>
+    <string-array name="cat_lines">
+        <item>にゃー。</item>
+        <item>あと5分…</item>
+        <item>ゴロゴロ</item>
+        <item>Zzz…あ、やあ。</item>
+        <item>ごはんちょうだい。やっぱりいいや。Zzz。</item>
+    </string-array>
+    <string name="notif_wake_up">ホーホー！起きる時間だよ 🦉</string>
+    <string-array name="notif_ring_lines">
+        <item>ホーホー！起きる時間だよ 🦉</item>
+        <item>このために一晩中起きてたんだ。</item>
+        <item>ねえ…アラームが呼んでるよ。</item>
+        <item>きみのために羽ばたいてるよ！</item>
+        <item>起きて起きて！一日が待ってるよ。</item>
+    </string-array>
+    <string name="tab_alarms">アラーム</string>
+    <string name="tab_stopwatch">ストップウォッチ</string>
+    <string name="sw_title">ストップウォッチ</string>
+    <string name="sw_running_n">%1$d件 計測中</string>
+    <string name="sw_all_paused">すべて一時停止中</string>
+    <string name="sw_new">新しいストップウォッチ</string>
+    <string name="sw_name_hint">名前</string>
+    <string name="sw_default_name">ストップウォッチ %1$d</string>
+    <string name="sw_start">開始</string>
+    <string name="sw_pause">一時停止</string>
+    <string name="sw_resume">再開</string>
+    <string name="sw_lap">ラップ</string>
+    <string name="sw_reset">リセット</string>
+    <string name="sw_running">計測中</string>
+    <string name="sw_paused">一時停止中</string>
+    <string name="sw_lap_n">ラップ %1$d</string>
+    <string name="sw_more_laps">以前のラップ +%1$d</string>
+    <string name="sw_empty_title">ストップウォッチはまだありません</string>
+    <string name="sw_empty_body">トレーニングや勉強など、何でも計測できるように作りましょう。アプリを閉じてもカウントを続けます。</string>
+    <string name="sw_delete_title">ストップウォッチを削除しますか？</string>
+    <string-array name="sw_cat_lines">
+        <item>時計はぼくが見ててあげる！</item>
+        <item>チクタク、チクタク…</item>
+        <item>がんばれ！🐾</item>
+        <item>あの針なら一日中追いかけられるよ。</item>
+        <item>ぴったりのタイミング！</item>
+    </string-array>
+    <string name="open_alarm">開く</string>
+    <string name="hold_to_stop">長押しで停止</string>
+    <string name="stop_all_chain">連続アラームをすべて停止</string>
+    <plurals name="chain_remaining">
+        <item quantity="other">あと%1$d回鳴ります</item>
+    </plurals>
+    <string name="new_category">新しいカテゴリ</string>
+    <string name="category_name">カテゴリ名</string>
+    <string name="more_options">その他のオプション</string>
+    <string name="confirm_stop_title">長押しで停止</string>
+    <string name="confirm_stop_hint">ボタンを2秒間押し続ける必要があるので、寝ぼけて止めてしまうことがありません</string>
+    <string name="speak_label_title">名前を読み上げる</string>
+    <string name="speak_label_hint">鳴っている間、スマホが名前を声に出して読みます</string>
+    <string name="chain_title">連続アラーム</string>
+    <string name="chain_hint">最初のアラームのあとに続く追加のアラーム</string>
+    <string name="chain_off">オフ</string>
+    <string name="chain_every">間隔</string>
+    <string name="tab_history">履歴</string>
+    <string name="tab_settings">設定</string>
+    <string name="history_title">履歴</string>
+    <string name="history_week">今週：停止 %1$d · 見逃し %2$d</string>
+    <string name="history_empty">まだ何もありません。アラームが鳴ると、ここに表示されます。</string>
+    <string name="result_stopped">停止</string>
+    <string name="result_snoozed">スヌーズ</string>
+    <string name="result_missed">見逃し</string>
+    <string name="result_ringing">鳴動中</string>
+    <string name="history_clear">履歴を消去</string>
+    <string name="history_clear_body">すべての記録が削除されます。アラームには影響しません。</string>
+    <string name="settings_title">設定</string>
+    <string name="my_categories">マイカテゴリ</string>
+    <string name="my_categories_empty">まだ作成していません。ペット、薬、授業など、必要なものを作りましょう。</string>
+    <string name="delete_category_title">カテゴリを削除しますか？</string>
+    <string name="delete_category_body">%1$s を使っているアラームは「一般」に戻ります。</string>
+    <string name="backup_title">バックアップ</string>
+    <string name="backup_body">アラーム、テンプレート、カテゴリ、ストップウォッチ、自分の音声ファイルを1つのファイルに保存したり、そこから復元したりできます。</string>
+    <string name="backup_export">書き出す</string>
+    <string name="backup_import">復元</string>
+    <string name="backup_done">バックアップを保存しました（アラーム%1$d件）</string>
+    <string name="backup_failed">バックアップを保存できませんでした</string>
+    <string name="restore_title">バックアップを復元しますか？</string>
+    <string name="restore_body">アプリ内の現在のデータ（アラーム、テンプレート、カテゴリ、ストップウォッチ）がすべて置き換えられます。</string>
+    <string name="restore_done">アラーム%1$d件を復元しました</string>
+    <string name="restore_failed">このファイルは復元できませんでした</string>
+    <string name="tab_sleep">睡眠</string>
+    <string name="sleep_title">睡眠</string>
+    <string name="sleep_awake">あなたの睡眠を記録します</string>
+    <string name="sleep_add_manual">手動で1晩追加</string>
+    <string name="sleep_month">月</string>
+    <string name="sleep_year">年</string>
+    <string name="sleep_total">合計</string>
+    <string name="sleep_hours_per_night">1晩あたりの時間</string>
+    <string name="sleep_goal_hint">点線 = 目標 %1$d 時間</string>
+    <string name="sleep_nights">晩数</string>
+    <string name="sleep_avg_per_month">月平均</string>
+    <string name="sleep_nights_n">%1$d晩</string>
+    <string name="sleep_all_time">通算</string>
+    <string name="sleep_total_hours">合計睡眠時間</string>
+    <string name="sleep_longest">最も長い夜</string>
+    <string name="sleep_shortest">最も短い夜</string>
+    <string name="sleep_per_year">年平均</string>
+    <string name="sleep_empty">この期間にはまだ記録がありません。</string>
+    <string name="sleep_avg">平均</string>
+    <string name="sleep_avg_bed">平均就寝時刻</string>
+    <string name="sleep_avg_wake">平均起床時刻</string>
+    <string name="sleep_avg_quality">平均評価</string>
+    <string name="sleep_wake_day">起きた日</string>
+    <string name="sleep_fell_asleep">就寝時刻</string>
+    <string name="sleep_woke_up">起床時刻</string>
+    <string name="cal_title">カレンダーから取り込む</string>
+    <string name="cal_body">スマホのカレンダーの今後の予定をアラームにします。読み取りのみで、データは端末の外に出ません。</string>
+    <string name="cal_button">予定を選ぶ</string>
+    <string name="cal_denied">予定を読み取るにはカレンダーの許可が必要です。端末の設定で許可できます。</string>
+    <string name="cal_loading">予定を読み込み中…</string>
+    <string name="cal_empty">この期間に予定はありません。</string>
+    <string name="cal_remind">通知タイミング</string>
+    <string name="cal_on_time">開始時</string>
+    <string name="cal_before">%1$d分前</string>
+    <string name="cal_create">%1$d件作成</string>
+    <string name="cal_created">アラームを%1$d件作成しました</string>
+    <string name="cal_range">先の期間</string>
+    <string name="cal_days">%1$d日</string>
+    <string name="cal_one_year">1年</string>
+    <string name="channel_sleep">睡眠を検出</string>
+    <string name="sleep_notif_title">睡眠を記録しました 🌙</string>
+    <string name="sleep_notif_one">%1$s → %2$s · %3$s</string>
+    <string name="sleep_notif_many">新しい睡眠を%1$d件検出しました</string>
+    <string name="sleep_notif_hint">タップして確認し、時刻がずれていれば修正してください。</string>
+    <string name="sleep_auto_title">自動検出</string>
+    <string name="sleep_auto_body">夜間に画面が何時間も消えていた時間から、眠っていた時間を割り出します。データは端末の外に出ません。</string>
+    <string name="sleep_auto_unsupported">自動検出にはAndroid 9以降が必要です。手動で追加することはできます。</string>
+    <string name="sleep_auto_need_access">画面が消えていた時間を確認できるよう、Androidの設定でBuhitoに「使用状況へのアクセス」を許可してください。</string>
+    <string name="sleep_auto_grant">設定を開く</string>
+    <string name="sleep_detect_now">今すぐ検出</string>
+    <string name="sleep_adjust">調整</string>
+    <string name="sleep_hide_adjust">閉じる</string>
+    <string name="sleep_adj_min">カウントする最短の睡眠時間</string>
+    <string name="sleep_adj_delay">画面が消えてから眠るまでにかかる時間</string>
+    <string name="sleep_adj_from">睡眠の開始を認める時刻</string>
+    <string name="sleep_adj_check">毎朝チェックして通知する時刻</string>
+    <string name="sleep_detected_n">新しい睡眠を%1$d件検出しました</string>
+    <string name="sleep_detected_none">記録する新しい睡眠はありません</string>
+    <string name="sleep_auto_hint">🤖 = 自動検出。タップして時刻を修正したり評価したりできます。</string>
+    <string name="qr_stop_title">QRをスキャンして停止</string>
+    <string name="qr_stop_hint">止めるにはBuhitoのQRコードをスキャンする必要があります。ベッドから離れた場所に置いてください。</string>
+    <string name="qr_scan_button">QRをスキャンして停止</string>
+    <string name="qr_scan_prompt">BuhitoのQRにカメラを向けてください</string>
+    <string name="qr_wrong">BuhitoのQRコードではありません。もう一度お試しください。</string>
+    <string name="qr_camera_needed">QRでアラームを止めるにはカメラの許可が必要です</string>
+    <string name="qr_settings_title">QRコード</string>
+    <string name="qr_settings_body">アラームを止めるための専用コードです。画像を保存して印刷するか、別の画面に表示してください。カメラが使えない場合は、長押しで停止になります。</string>
+    <string name="qr_save">画像を保存</string>
+    <string name="qr_saved">QR画像を保存しました</string>
+    <string name="qr_new">新しいコード</string>
+    <string name="qr_new_title">新しいコードを作成しますか？</string>
+    <string name="qr_new_body">古いコードは使えなくなります。新しいコードを保存して印刷してください。</string>
+    <string name="lang_title">言語</string>
+    <string name="lang_body">アプリの言語を選択します。</string>
+    <string name="ob_replay">ツアーをもう一度見る</string>
+    <string name="ob_skip">スキップ</string>
+    <string name="ob_next">次へ</string>
+    <string name="ob_start">はじめよう！</string>
+    <string name="ob_1">ホー！ようこそ！ぼくはBuhito、夜の見張り番のフクロウだよ 🦉 使い方を案内するね。まずは言語を選んでね。</string>
+    <string name="ob_2">これはアラームアプリだよ。＋をタップして作ろう：時刻、曜日、名前を選んでね。</string>
+    <string name="ob_3">自分好みに：システム音、自分の音声、さらには自分の声も使えるよ。カテゴリや連続アラームを加えたり、名前を読み上げさせたりもできるよ。</string>
+    <string name="ob_4">アラームを止めるには、ボタンを2秒間長押しするか、BuhitoのQRコードをスキャンしてね。QRコードは設定から保存して印刷できるよ。</string>
+    <string name="ob_5">ロック画面でアラームを鳴らすには、通知、アラーム、全画面通知を許可してね。足りないものがあれば教えるよ。</string>
+    <string name="ob_6">アラームのほかに、睡眠も自動で記録するよ 🌙 友だちのネコはストップウォッチを計ってくれるよ 🐱</string>
+    <string name="ob_7">以上だよ！最初のアラームを作ってみよう！</string>
+    <string name="qr_strict_title">厳格モード</string>
+    <string name="qr_strict_hint">QR付きのアラームはスキャンでしか止められません。スヌーズも他のボタンもありません。QRコードを印刷するか、手元に用意してください。</string>
+</resources>

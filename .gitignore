@@ -1,0 +1,20 @@
+# Gradle / Android Studio
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing and secrets: never commit these
+*.jks
+*.keystore
+keystore.properties
+
+# Built APKs (publish them as GitHub Releases instead)
+*.apk
+*.aab
