@@ -14,9 +14,6 @@
 [Leer en español](README.es.md)
 
 </div>
-
-> Replace `OWNER/REPO` in the badge above with your GitHub user and repository name.
-
 ## Features
 
 - ⏰ **Alarms that ring on the lock screen** — exact time, full-screen alert, vibration, snooze 5/10/15 min.
@@ -45,7 +42,7 @@ Requires Android 8.0 (API 26) or newer. Automatic sleep detection needs Android 
 You need [Android Studio](https://developer.android.com/studio) (Ladybug or newer) with JDK 17.
 
 ```bash
-git clone https://github.com/OWNER/REPO.git
+git clone https://github.com/Facundo-Gauna/Buhito-alarm-clock-app-mobile.git
 cd REPO
 ```
 
